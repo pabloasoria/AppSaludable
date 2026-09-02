@@ -1,0 +1,2646 @@
+[
+  {
+    "id": "airfryer-01-tortilla-de-claras-con-espinacas-y-champinones",
+    "title": "Tortilla de claras con espinacas y champiñones",
+    "method": "AirFryer",
+    "mealType": "Desayuno",
+    "servingsBase": 2,
+    "prepTime": "10 min",
+    "cookTime": "12 min",
+    "totalTime": "22 min",
+    "difficulty": "Fácil",
+    "nutrition": {
+      "kcal": 150,
+      "protein": 18,
+      "carbs": 4,
+      "fat": 6
+    },
+    "ingredients": [
+      "6 claras de huevo (180 ml) + 1 huevo entero",
+      "100 g de espinacas frescas",
+      "80 g de champiñones laminados",
+      "1/2 cebolla picada",
+      "Sal y pimienta al gusto",
+      "Pimentón dulce (opcional)",
+      "Spray de aceite de oliva"
+    ],
+    "steps": [
+      "Rehoga la cebolla, los champiñones y las espinacas en una sartén 3-4 minutos hasta que suelten el agua, o pásalos 2 minutos por el microondas.",
+      "Bate las claras con el huevo entero, sal, pimienta y pimentón.",
+      "Mezcla las verduras rehogadas con el batido de huevo.",
+      "Engrasa un molde apto para AirFryer con el spray de aceite y vierte la mezcla.",
+      "Cocina a 180 °C durante 12 minutos, hasta que cuaje por completo.",
+      "Deja reposar 2 minutos antes de desmoldar y sirve."
+    ],
+    "tips": "Sustituye los champiñones por calabacín si no te gustan las setas. Se puede preparar la noche anterior y calentar 2 min al día siguiente.",
+    "ovenAlt": null
+  },
+  {
+    "id": "airfryer-02-boniato-asado-con-canela-y-crema-de-cacahuete",
+    "title": "Boniato asado con canela y crema de cacahuete",
+    "method": "AirFryer",
+    "mealType": "Desayuno",
+    "servingsBase": 2,
+    "prepTime": "10 min",
+    "cookTime": "20 min",
+    "totalTime": "30 min",
+    "difficulty": "Fácil",
+    "nutrition": {
+      "kcal": 220,
+      "protein": 5,
+      "carbs": 32,
+      "fat": 8
+    },
+    "ingredients": [
+      "2 boniatos medianos (500 g)",
+      "1 cucharadita de canela en polvo",
+      "Spray de aceite de oliva",
+      "Una pizca de sal",
+      "2 cucharadas de crema de cacahuete 100 % (sin azúcares añadidos)"
+    ],
+    "steps": [
+      "Lava y corta el boniato en rodajas de aproximadamente 1 cm de grosor (con piel).",
+      "Colócalas en un bol, rocía con spray de aceite, espolvorea la canela y la sal, y mezcla bien.",
+      "Dispón las rodajas en la cesta de la AirFryer sin amontonar.",
+      "Cocina a 200 °C durante 18-20 minutos, volteando a mitad de cocción.",
+      "Sirve templado con la crema de cacahuete por encima o para mojar."
+    ],
+    "tips": "Puedes sustituir el boniato por calabaza. La crema de cacahuete aporta grasas saludables y ayuda a la saciedad.",
+    "ovenAlt": null
+  },
+  {
+    "id": "airfryer-03-huevos-al-horno-en-aguacate",
+    "title": "Huevos al horno en aguacate",
+    "method": "AirFryer",
+    "mealType": "Desayuno",
+    "servingsBase": 2,
+    "prepTime": "5 min",
+    "cookTime": "12 min",
+    "totalTime": "17 min",
+    "difficulty": "Fácil",
+    "nutrition": {
+      "kcal": 260,
+      "protein": 12,
+      "carbs": 8,
+      "fat": 21
+    },
+    "ingredients": [
+      "2 aguacates maduros pero firmes",
+      "4 huevos",
+      "Sal y pimienta al gusto",
+      "Pimentón picante (opcional)",
+      "Cebollino picado para decorar"
+    ],
+    "steps": [
+      "Corta los aguacates por la mitad y retira el hueso.",
+      "Con una cuchara, retira un poco de pulpa del centro de cada mitad para hacer hueco al huevo.",
+      "Casca un huevo con cuidado dentro de cada mitad de aguacate (ayúdate de un bol pequeño para no romper la yema).",
+      "Coloca las mitades en la cesta de la AirFryer, con cuidado de que queden niveladas.",
+      "Cocina a 160 °C durante 10-12 minutos, según el punto de cocción de la yema que prefieras.",
+      "Salpimenta, añade pimentón picante si quieres y decora con cebollino."
+    ],
+    "tips": "Si el hueco es pequeño, retira algo más de pulpa y resérvala para untar en pan integral.",
+    "ovenAlt": null
+  },
+  {
+    "id": "airfryer-04-tostadas-francesas-proteicas-de-platano",
+    "title": "Tostadas francesas proteicas de plátano",
+    "method": "AirFryer",
+    "mealType": "Desayuno",
+    "servingsBase": 2,
+    "prepTime": "10 min",
+    "cookTime": "8 min",
+    "totalTime": "18 min",
+    "difficulty": "Fácil",
+    "nutrition": {
+      "kcal": 260,
+      "protein": 14,
+      "carbs": 34,
+      "fat": 7
+    },
+    "ingredients": [
+      "4 rebanadas de pan integral",
+      "1 plátano maduro",
+      "2 huevos",
+      "100 ml de leche o bebida vegetal",
+      "1/2 cucharadita de canela",
+      "Unas gotas de esencia de vainilla",
+      "Spray de aceite de oliva"
+    ],
+    "steps": [
+      "Tritura el plátano con los huevos, la leche, la canela y la vainilla hasta obtener una mezcla homogénea.",
+      "Remoja cada rebanada de pan en la mezcla unos 20-30 segundos por cada lado.",
+      "Engrasa la cesta de la AirFryer con spray de aceite y coloca las rebanadas sin superponerlas.",
+      "Cocina a 180 °C durante 8 minutos, volteando a mitad de cocción.",
+      "Sirve con fruta fresca troceada por encima."
+    ],
+    "tips": "Para más proteína añade una cucharada de proteína en polvo sin sabor a la mezcla líquida.",
+    "ovenAlt": null
+  },
+  {
+    "id": "airfryer-05-pechuga-de-pollo-marinada-al-limon-con-verduras",
+    "title": "Pechuga de pollo marinada al limón con verduras",
+    "method": "AirFryer",
+    "mealType": "Comida",
+    "servingsBase": 2,
+    "prepTime": "15 min + reposo",
+    "cookTime": "15 min",
+    "totalTime": "30 min (+ marinado)",
+    "difficulty": "Fácil",
+    "nutrition": {
+      "kcal": 280,
+      "protein": 40,
+      "carbs": 8,
+      "fat": 9
+    },
+    "ingredients": [
+      "2 pechugas de pollo (300 g)",
+      "Zumo de 1 limón",
+      "2 dientes de ajo picados",
+      "1 cucharadita de orégano",
+      "1 calabacín",
+      "1 pimiento rojo",
+      "Sal, pimienta y 1 cucharada de aceite de oliva"
+    ],
+    "steps": [
+      "Marina el pollo con el zumo de limón, el ajo, el orégano, sal y pimienta durante al menos 20 minutos (mejor toda la noche).",
+      "Corta el calabacín y el pimiento en trozos medianos y adereza con aceite, sal y pimienta.",
+      "Coloca el pollo en la cesta de la AirFryer y cocina a 200 °C durante 15 minutos, volteando a mitad de cocción.",
+      "Cocina las verduras aparte (o en la misma cesta si cabe) a 200 °C durante 12 minutos.",
+      "Deja reposar el pollo 3 minutos, córtalo en tiras y sirve con las verduras."
+    ],
+    "tips": "Comprueba que el pollo alcanza 74 °C en el centro. Puedes sustituir el calabacín por berenjena.",
+    "ovenAlt": null
+  },
+  {
+    "id": "airfryer-06-salmon-con-costra-de-sesamo-y-brocoli",
+    "title": "Salmón con costra de sésamo y brócoli",
+    "method": "AirFryer",
+    "mealType": "Comida",
+    "servingsBase": 2,
+    "prepTime": "10 min",
+    "cookTime": "10 min",
+    "totalTime": "20 min",
+    "difficulty": "Fácil",
+    "nutrition": {
+      "kcal": 340,
+      "protein": 34,
+      "carbs": 6,
+      "fat": 20
+    },
+    "ingredients": [
+      "2 lomos de salmón (300 g)",
+      "2 cucharadas de semillas de sésamo (blanco y negro)",
+      "1 cucharada de salsa de soja baja en sodio",
+      "300 g de brócoli en arbolitos",
+      "Aceite de oliva en spray",
+      "1 limón"
+    ],
+    "steps": [
+      "Pincela los lomos de salmón con la salsa de soja y reboza por el lado de la piel-carne en las semillas de sésamo.",
+      "Rocía el brócoli con spray de aceite y una pizca de sal.",
+      "Coloca el salmón en la cesta de la AirFryer y cocina a 190 °C durante 8-10 minutos.",
+      "Cocina el brócoli a 190 °C durante 8 minutos (puede ir junto al salmón o en otra tanda).",
+      "Sirve con un chorrito de limón."
+    ],
+    "tips": "El punto del salmón depende del grosor del lomo; ve comprobando a partir del minuto 7 si te gusta menos hecho.",
+    "ovenAlt": null
+  },
+  {
+    "id": "airfryer-07-muslos-de-pavo-con-boniato-y-pimientos",
+    "title": "Muslos de pavo con boniato y pimientos",
+    "method": "AirFryer",
+    "mealType": "Comida",
+    "servingsBase": 2,
+    "prepTime": "10 min",
+    "cookTime": "20 min",
+    "totalTime": "30 min",
+    "difficulty": "Fácil",
+    "nutrition": {
+      "kcal": 310,
+      "protein": 32,
+      "carbs": 24,
+      "fat": 9
+    },
+    "ingredients": [
+      "400 g de contramuslo de pavo deshuesado, en dados",
+      "1 boniato mediano, en dados",
+      "1 pimiento rojo o verde, en trozos",
+      "1 cucharadita de pimentón dulce",
+      "Ajo en polvo, sal y aceite de oliva"
+    ],
+    "steps": [
+      "Mezcla el pavo y el boniato con el pimentón, el ajo en polvo, sal y un chorrito de aceite.",
+      "Coloca en la cesta de la AirFryer y cocina a 200 °C durante 12 minutos, removiendo a mitad de cocción.",
+      "Añade el pimiento y continúa la cocción 8 minutos más, hasta que todo esté dorado y tierno.",
+      "Sirve caliente."
+    ],
+    "tips": "Corta el boniato en dados pequeños (1,5-2 cm) para que se haga en el mismo tiempo que el pavo.",
+    "ovenAlt": null
+  },
+  {
+    "id": "airfryer-08-merluza-en-papillote-con-esparragos",
+    "title": "Merluza en papillote con espárragos",
+    "method": "AirFryer",
+    "mealType": "Comida",
+    "servingsBase": 2,
+    "prepTime": "10 min",
+    "cookTime": "15 min",
+    "totalTime": "25 min",
+    "difficulty": "Fácil",
+    "nutrition": {
+      "kcal": 190,
+      "protein": 30,
+      "carbs": 6,
+      "fat": 4
+    },
+    "ingredients": [
+      "2 lomos de merluza (300 g)",
+      "1 manojo de espárragos verdes",
+      "1 tomate en rodajas finas",
+      "1 cucharada de aceite de oliva",
+      "Perejil fresco, limón, sal y pimienta"
+    ],
+    "steps": [
+      "Corta dos rectángulos de papel apto para horno y coloca en cada uno un lomo de merluza.",
+      "Reparte los espárragos y las rodajas de tomate alrededor del pescado, riega con aceite y salpimenta.",
+      "Cierra bien el papillote formando un paquete hermético.",
+      "Cocina en la AirFryer a 180 °C durante 15 minutos.",
+      "Abre con cuidado (sale vapor caliente), espolvorea perejil y sirve con un chorrito de limón."
+    ],
+    "tips": "Puedes sustituir la merluza por bacalao fresco o rape. Vigila que el papel usado sea apto para horno/AirFryer.",
+    "ovenAlt": null
+  },
+  {
+    "id": "airfryer-09-chips-de-manzana-y-canela",
+    "title": "Chips de manzana y canela",
+    "method": "AirFryer",
+    "mealType": "Merienda",
+    "servingsBase": 2,
+    "prepTime": "10 min",
+    "cookTime": "18 min",
+    "totalTime": "28 min",
+    "difficulty": "Fácil",
+    "nutrition": {
+      "kcal": 60,
+      "protein": 0,
+      "carbs": 15,
+      "fat": 0
+    },
+    "ingredients": [
+      "2 manzanas",
+      "1 cucharadita de canela en polvo",
+      "Zumo de 1/2 limón"
+    ],
+    "steps": [
+      "Lava las manzanas y lamínalas muy finas (2-3 mm) con una mandolina si tienes, o con un cuchillo afilado.",
+      "Pincela las láminas con zumo de limón para que no se oxiden y espolvorea canela.",
+      "Coloca las láminas en la cesta de la AirFryer sin que se solapen.",
+      "Cocina a 140 °C durante 15-18 minutos, volteando a mitad de cocción.",
+      "Deja enfriar por completo fuera de la freidora: es al enfriarse cuando quedan crujientes."
+    ],
+    "tips": "Se conservan 2-3 días en un bote hermético. Funciona igual de bien con pera.",
+    "ovenAlt": null
+  },
+  {
+    "id": "airfryer-10-bites-de-calabacin-rebozados-en-avena",
+    "title": "Bites de calabacín rebozados en avena",
+    "method": "AirFryer",
+    "mealType": "Merienda",
+    "servingsBase": 2,
+    "prepTime": "10 min",
+    "cookTime": "12 min",
+    "totalTime": "22 min",
+    "difficulty": "Fácil",
+    "nutrition": {
+      "kcal": 150,
+      "protein": 10,
+      "carbs": 14,
+      "fat": 6
+    },
+    "ingredients": [
+      "1 calabacín grande",
+      "1 huevo batido",
+      "40 g de copos de avena triturados",
+      "20 g de queso parmesano rallado",
+      "Sal y pimentón dulce"
+    ],
+    "steps": [
+      "Corta el calabacín en bastones de 1 cm de grosor.",
+      "Mezcla la avena triturada con el parmesano, sal y pimentón en un plato.",
+      "Pasa cada bastón primero por el huevo batido y después por la mezcla de avena, presionando para que se adhiera.",
+      "Coloca en la cesta de la AirFryer sin amontonar y cocina a 200 °C durante 12 minutos, volteando a mitad."
+    ],
+    "tips": "Sirve con salsa de yogur y eneldo (ver receta de tzatziki en la sección Thermomix).",
+    "ovenAlt": null
+  },
+  {
+    "id": "airfryer-11-yogur-griego-con-crumble-de-frutos-secos-al-airfryer",
+    "title": "Yogur griego con crumble de frutos secos al AirFryer",
+    "method": "AirFryer",
+    "mealType": "Merienda",
+    "servingsBase": 2,
+    "prepTime": "5 min",
+    "cookTime": "7 min",
+    "totalTime": "12 min",
+    "difficulty": "Fácil",
+    "nutrition": {
+      "kcal": 220,
+      "protein": 15,
+      "carbs": 16,
+      "fat": 11
+    },
+    "ingredients": [
+      "300 g de yogur griego natural",
+      "40 g de copos de avena",
+      "30 g de nueces y almendras troceadas",
+      "1 cucharadita de miel",
+      "Canela al gusto"
+    ],
+    "steps": [
+      "Mezcla la avena, los frutos secos, la miel y la canela en un bol.",
+      "Extiende la mezcla en la cesta de la AirFryer (sobre papel apto si tu modelo lo requiere).",
+      "Cocina a 160 °C durante 6-7 minutos, removiendo a mitad de cocción, hasta que esté dorado.",
+      "Deja enfriar (quedará crujiente) y sirve sobre el yogur griego."
+    ],
+    "tips": "Prepara el doble de crumble y guárdalo en un bote hermético para varios desayunos.",
+    "ovenAlt": null
+  },
+  {
+    "id": "airfryer-12-barritas-de-avena-y-platano-horneadas",
+    "title": "Barritas de avena y plátano horneadas",
+    "method": "AirFryer",
+    "mealType": "Merienda",
+    "servingsBase": 8,
+    "prepTime": "10 min",
+    "cookTime": "15 min",
+    "totalTime": "25 min",
+    "difficulty": "Fácil",
+    "nutrition": {
+      "kcal": 90,
+      "protein": 3,
+      "carbs": 17,
+      "fat": 1
+    },
+    "ingredients": [
+      "2 plátanos maduros",
+      "150 g de copos de avena",
+      "30 g de pasas o arándanos deshidratados",
+      "1 cucharadita de canela",
+      "1 cucharada de semillas de chía"
+    ],
+    "steps": [
+      "Aplasta los plátanos con un tenedor hasta hacer un puré.",
+      "Mezcla con la avena, la chía, la canela y las pasas hasta integrar bien.",
+      "Extiende la mezcla en un molde rectangular apto para AirFryer, presionando bien.",
+      "Cocina a 160 °C durante 15 minutos.",
+      "Deja enfriar por completo antes de desmoldar y cortar en 8 barritas."
+    ],
+    "tips": "Se conservan hasta 4 días en la nevera en un recipiente hermético; ideales para llevar.",
+    "ovenAlt": null
+  },
+  {
+    "id": "airfryer-13-garbanzos-crujientes-especiados",
+    "title": "Garbanzos crujientes especiados",
+    "method": "AirFryer",
+    "mealType": "Snack",
+    "servingsBase": 4,
+    "prepTime": "5 min",
+    "cookTime": "18 min",
+    "totalTime": "23 min",
+    "difficulty": "Fácil",
+    "nutrition": {
+      "kcal": 150,
+      "protein": 8,
+      "carbs": 20,
+      "fat": 4
+    },
+    "ingredients": [
+      "400 g de garbanzos cocidos, escurridos",
+      "1 cucharada de aceite de oliva",
+      "1 cucharadita de comino",
+      "1 cucharadita de pimentón",
+      "Ajo en polvo y sal al gusto"
+    ],
+    "steps": [
+      "Seca muy bien los garbanzos con papel de cocina (cuanto más secos, más crujientes quedan).",
+      "Mézclalos con el aceite y las especias.",
+      "Colócalos en la cesta de la AirFryer en una sola capa.",
+      "Cocina a 200 °C durante 15-18 minutos, agitando la cesta cada 5 minutos hasta que estén dorados y crujientes."
+    ],
+    "tips": "Se ablandan si se guardan tapados; consérvalos en un bote abierto o papel a temperatura ambiente y consume en 1-2 días.",
+    "ovenAlt": null
+  },
+  {
+    "id": "airfryer-14-chips-de-kale",
+    "title": "Chips de kale",
+    "method": "AirFryer",
+    "mealType": "Snack",
+    "servingsBase": 2,
+    "prepTime": "10 min",
+    "cookTime": "7 min",
+    "totalTime": "17 min",
+    "difficulty": "Fácil",
+    "nutrition": {
+      "kcal": 70,
+      "protein": 3,
+      "carbs": 6,
+      "fat": 4
+    },
+    "ingredients": [
+      "150 g de hojas de kale, sin el tallo central",
+      "1 cucharada de aceite de oliva",
+      "Sal al gusto",
+      "Levadura nutricional (opcional, para un toque de queso)"
+    ],
+    "steps": [
+      "Trocea las hojas de kale en piezas medianas.",
+      "Masajea con el aceite y la sal hasta que las hojas queden ligeramente impregnadas.",
+      "Coloca en la cesta de la AirFryer sin amontonar y cocina a 150 °C durante 6-8 minutos, vigilando que no se quemen.",
+      "Espolvorea con levadura nutricional si la usas y sirve inmediatamente."
+    ],
+    "tips": "El kale se quema muy rápido; revisa a partir del minuto 5. Debe quedar crujiente, no tostado oscuro.",
+    "ovenAlt": null
+  },
+  {
+    "id": "airfryer-15-alitas-de-pollo-al-limon-y-pimenton",
+    "title": "Alitas de pollo al limón y pimentón",
+    "method": "AirFryer",
+    "mealType": "Snack",
+    "servingsBase": 4,
+    "prepTime": "10 min + marinado",
+    "cookTime": "22 min",
+    "totalTime": "32 min (+ marinado)",
+    "difficulty": "Fácil",
+    "nutrition": {
+      "kcal": 210,
+      "protein": 22,
+      "carbs": 1,
+      "fat": 13
+    },
+    "ingredients": [
+      "500 g de alitas de pollo",
+      "Zumo de 1 limón",
+      "1 cucharadita de pimentón dulce",
+      "Ajo en polvo, sal y pimienta"
+    ],
+    "steps": [
+      "Marina las alitas con el zumo de limón, el pimentón, el ajo en polvo, sal y pimienta durante al menos 20 minutos.",
+      "Coloca las alitas en la cesta de la AirFryer sin amontonar.",
+      "Cocina a 200 °C durante 20-22 minutos, volteando a mitad de cocción, hasta que estén doradas y crujientes."
+    ],
+    "tips": "Para más crujiente, seca bien la piel antes de marinar. Comprueba que alcanzan 74 °C en el centro.",
+    "ovenAlt": null
+  },
+  {
+    "id": "airfryer-16-edamame-crujiente-con-sal-marina",
+    "title": "Edamame crujiente con sal marina",
+    "method": "AirFryer",
+    "mealType": "Snack",
+    "servingsBase": 2,
+    "prepTime": "5 min",
+    "cookTime": "10 min",
+    "totalTime": "15 min",
+    "difficulty": "Fácil",
+    "nutrition": {
+      "kcal": 140,
+      "protein": 12,
+      "carbs": 8,
+      "fat": 7
+    },
+    "ingredients": [
+      "300 g de edamame sin vaina (congelado, descongelado)",
+      "1 cucharadita de aceite de sésamo",
+      "Sal marina en escamas",
+      "Copos de chile (opcional)"
+    ],
+    "steps": [
+      "Seca bien el edamame descongelado con papel de cocina.",
+      "Mézclalo con el aceite de sésamo y la sal.",
+      "Cocina en la AirFryer a 190 °C durante 10 minutos, agitando la cesta a mitad de cocción.",
+      "Sirve caliente, con copos de chile si te gusta el picante."
+    ],
+    "tips": "Un snack muy alto en proteína vegetal, ideal para después de entrenar.",
+    "ovenAlt": null
+  },
+  {
+    "id": "airfryer-17-tofu-crujiente-con-verduras-salteadas",
+    "title": "Tofu crujiente con verduras salteadas",
+    "method": "AirFryer",
+    "mealType": "Cena",
+    "servingsBase": 2,
+    "prepTime": "15 min",
+    "cookTime": "15 min",
+    "totalTime": "30 min",
+    "difficulty": "Media",
+    "nutrition": {
+      "kcal": 260,
+      "protein": 20,
+      "carbs": 16,
+      "fat": 13
+    },
+    "ingredients": [
+      "300 g de tofu firme, en dados",
+      "1 cucharada de maicena",
+      "1 cucharada de salsa de soja",
+      "1 pimiento, en tiras",
+      "100 g de brócoli",
+      "1 zanahoria, en tiras",
+      "Jengibre y ajo picados"
+    ],
+    "steps": [
+      "Seca bien el tofu y mézclalo con la salsa de soja y la maicena hasta que quede bien impregnado.",
+      "Cocina el tofu en la AirFryer a 200 °C durante 15 minutos, agitando la cesta a mitad de cocción.",
+      "Mientras tanto, saltea en una sartén el pimiento, el brócoli y la zanahoria con el ajo y el jengibre durante 6-8 minutos.",
+      "Mezcla el tofu crujiente con las verduras salteadas y sirve caliente."
+    ],
+    "tips": "Prensa el tofu 15-20 minutos antes (con peso encima) para que quede más firme y absorba mejor la salsa.",
+    "ovenAlt": null
+  },
+  {
+    "id": "airfryer-18-berenjena-rellena-de-pavo-y-tomate",
+    "title": "Berenjena rellena de pavo y tomate",
+    "method": "AirFryer",
+    "mealType": "Cena",
+    "servingsBase": 2,
+    "prepTime": "15 min",
+    "cookTime": "20 min",
+    "totalTime": "35 min",
+    "difficulty": "Media",
+    "nutrition": {
+      "kcal": 260,
+      "protein": 26,
+      "carbs": 14,
+      "fat": 11
+    },
+    "ingredients": [
+      "2 berenjenas",
+      "250 g de carne picada de pavo",
+      "1 tomate maduro picado",
+      "1/2 cebolla picada",
+      "1 diente de ajo",
+      "Orégano y sal",
+      "30 g de queso rallado light"
+    ],
+    "steps": [
+      "Corta las berenjenas por la mitad a lo largo y retira parte de la pulpa con una cuchara, dejando un hueco.",
+      "Sofríe la cebolla y el ajo, añade la pulpa de berenjena picada, la carne de pavo y el tomate; cocina 8-10 minutos.",
+      "Sazona con orégano y sal, y rellena las berenjenas con la mezcla.",
+      "Reparte el queso rallado por encima.",
+      "Cocina en la AirFryer a 180 °C durante 18-20 minutos, hasta que la berenjena esté tierna y el queso dorado."
+    ],
+    "tips": "Puedes sofreír el relleno el día anterior para acelerar la preparación.",
+    "ovenAlt": null
+  },
+  {
+    "id": "airfryer-19-albondigas-de-pollo-con-calabacin",
+    "title": "Albóndigas de pollo con calabacín",
+    "method": "AirFryer",
+    "mealType": "Cena",
+    "servingsBase": 2,
+    "prepTime": "15 min",
+    "cookTime": "14 min",
+    "totalTime": "29 min",
+    "difficulty": "Fácil",
+    "nutrition": {
+      "kcal": 230,
+      "protein": 30,
+      "carbs": 8,
+      "fat": 8
+    },
+    "ingredients": [
+      "400 g de pollo picado",
+      "1 calabacín rallado y bien escurrido",
+      "1 huevo",
+      "30 g de pan rallado integral",
+      "Ajo y perejil picados",
+      "Sal y pimienta"
+    ],
+    "steps": [
+      "Mezcla el pollo picado con el calabacín escurrido, el huevo, el pan rallado, el ajo, el perejil, sal y pimienta.",
+      "Forma albóndigas de tamaño similar con las manos húmedas.",
+      "Colócalas en la cesta de la AirFryer sin que se toquen entre sí.",
+      "Cocina a 190 °C durante 12-14 minutos, volteando a mitad de cocción."
+    ],
+    "tips": "Escurrir bien el calabacín es clave para que las albóndigas no queden blandas. Acompaña con salsa de tomate casera.",
+    "ovenAlt": null
+  },
+  {
+    "id": "airfryer-20-lubina-entera-con-hierbas-y-limon",
+    "title": "Lubina entera con hierbas y limón",
+    "method": "AirFryer",
+    "mealType": "Cena",
+    "servingsBase": 2,
+    "prepTime": "10 min",
+    "cookTime": "22 min",
+    "totalTime": "32 min",
+    "difficulty": "Media",
+    "nutrition": {
+      "kcal": 220,
+      "protein": 34,
+      "carbs": 1,
+      "fat": 8
+    },
+    "ingredients": [
+      "1 lubina entera limpia (500-600 g)",
+      "1 limón en rodajas",
+      "Romero y tomillo frescos",
+      "1 diente de ajo laminado",
+      "Aceite de oliva y sal"
+    ],
+    "steps": [
+      "Salpimenta la lubina por dentro y por fuera.",
+      "Rellena la cavidad con las rodajas de limón, el ajo y las hierbas.",
+      "Pincela la piel con un poco de aceite de oliva.",
+      "Cocina en la AirFryer a 180 °C durante 20-22 minutos, según el grosor del pescado, sin necesidad de voltear.",
+      "Comprueba que la carne se separa fácilmente de la espina antes de servir."
+    ],
+    "tips": "Puedes hacer unos cortes superficiales en la piel para que el calor penetre mejor y quede más uniforme.",
+    "ovenAlt": null
+  },
+  {
+    "id": "airfryer-21-muffins-salados-de-avena-calabacin-y-queso",
+    "title": "Muffins salados de avena, calabacín y queso",
+    "method": "AirFryer",
+    "mealType": "Desayuno",
+    "servingsBase": 6,
+    "prepTime": "10 min",
+    "cookTime": "14 min",
+    "totalTime": "24 min",
+    "difficulty": "Fácil",
+    "nutrition": {
+      "kcal": 110,
+      "protein": 8,
+      "carbs": 8,
+      "fat": 5
+    },
+    "ingredients": [
+      "150 g de copos de avena",
+      "1 calabacín rallado y bien escurrido",
+      "3 huevos",
+      "60 g de queso rallado",
+      "1/2 cucharadita de levadura química",
+      "Sal, pimienta y orégano"
+    ],
+    "steps": [
+      "Mezcla la avena, el calabacín escurrido, los huevos, el queso, la levadura, sal, pimienta y orégano hasta obtener una masa homogénea.",
+      "Reparte la mezcla en moldes individuales de silicona aptos para AirFryer, llenando 2/3 de su capacidad.",
+      "Cocina a 170 °C durante 12-14 minutos, hasta que cuajen y doren por encima.",
+      "Deja templar 2 minutos antes de desmoldar."
+    ],
+    "tips": "Escurrir bien el calabacín es clave para que los muffins no queden aguados. Se conservan 3 días en la nevera.",
+    "ovenAlt": {
+      "temp": "190 °C",
+      "time": "18-20 minutos",
+      "note": "Misma bandeja con los moldes, sin necesidad de voltear."
+    }
+  },
+  {
+    "id": "airfryer-22-tortilla-de-patata-individual-al-airfryer",
+    "title": "Tortilla de patata individual al AirFryer",
+    "method": "AirFryer",
+    "mealType": "Desayuno",
+    "servingsBase": 2,
+    "prepTime": "15 min",
+    "cookTime": "15 min",
+    "totalTime": "30 min",
+    "difficulty": "Media",
+    "nutrition": {
+      "kcal": 320,
+      "protein": 18,
+      "carbs": 28,
+      "fat": 15
+    },
+    "ingredients": [
+      "2 patatas medianas (300 g), en láminas finas",
+      "4 huevos",
+      "1/2 cebolla en juliana",
+      "Sal",
+      "Spray de aceite de oliva"
+    ],
+    "steps": [
+      "Cuece las patatas y la cebolla tapadas 8 minutos en el microondas (o hiérvelas) hasta que estén tiernas.",
+      "Bate los huevos con sal y mézclalos con las patatas y la cebolla.",
+      "Engrasa un molde apto para AirFryer con spray de aceite y vierte la mezcla.",
+      "Cocina a 180 °C durante 15 minutos; si no ha cuajado del todo, añade 3-4 minutos más.",
+      "Deja reposar 2 minutos antes de desmoldar."
+    ],
+    "tips": "Puedes precocinar las patatas la noche anterior para acelerar la receta por la mañana.",
+    "ovenAlt": {
+      "temp": "200 °C",
+      "time": "22-25 minutos",
+      "note": "Mismo molde; cubre con papel de aluminio los primeros 15 minutos para que no se tueste por arriba."
+    }
+  },
+  {
+    "id": "airfryer-23-sandwich-tostado-integral-de-pavo-y-queso",
+    "title": "Sandwich tostado integral de pavo y queso",
+    "method": "AirFryer",
+    "mealType": "Desayuno",
+    "servingsBase": 2,
+    "prepTime": "5 min",
+    "cookTime": "8 min",
+    "totalTime": "13 min",
+    "difficulty": "Fácil",
+    "nutrition": {
+      "kcal": 300,
+      "protein": 24,
+      "carbs": 30,
+      "fat": 9
+    },
+    "ingredients": [
+      "4 rebanadas de pan integral",
+      "100 g de pechuga de pavo en lonchas",
+      "4 lonchas de queso light",
+      "Tomate en rodajas",
+      "Orégano",
+      "Spray de aceite de oliva"
+    ],
+    "steps": [
+      "Monta los sándwiches con el pavo, el queso y el tomate entre las rebanadas de pan.",
+      "Pincela el exterior con spray de aceite y espolvorea orégano.",
+      "Cocina en la AirFryer a 180 °C durante 6-8 minutos, volteando a mitad de cocción, hasta dorar y fundir el queso."
+    ],
+    "tips": "Vigila los últimos 2 minutos: el pan integral se tuesta rápido.",
+    "ovenAlt": {
+      "temp": "200 °C con grill",
+      "time": "8-10 minutos",
+      "note": "Vigila de cerca; no suele hacer falta voltear si usas la función grill."
+    }
+  },
+  {
+    "id": "airfryer-24-champinones-rellenos-de-huevo-y-jamon",
+    "title": "Champiñones rellenos de huevo y jamón",
+    "method": "AirFryer",
+    "mealType": "Desayuno",
+    "servingsBase": 2,
+    "prepTime": "10 min",
+    "cookTime": "10 min",
+    "totalTime": "20 min",
+    "difficulty": "Fácil",
+    "nutrition": {
+      "kcal": 180,
+      "protein": 16,
+      "carbs": 4,
+      "fat": 11
+    },
+    "ingredients": [
+      "8 champiñones grandes",
+      "4 huevos de codorniz (o 2 huevos normales repartidos)",
+      "50 g de jamón cocido picado",
+      "Sal, pimienta y perejil"
+    ],
+    "steps": [
+      "Retira el tallo de los champiñones para hacer hueco en el centro.",
+      "Rellena cada champiñón con un poco de jamón picado.",
+      "Añade huevo de codorniz entero (o una porción de huevo normal) sobre el jamón y salpimenta.",
+      "Cocina en la AirFryer a 170 °C durante 8-10 minutos, hasta que el huevo cuaje.",
+      "Espolvorea perejil antes de servir."
+    ],
+    "tips": "Elige champiñones grandes y de tamaño similar para que el relleno quepa bien y se cocinen a la vez.",
+    "ovenAlt": {
+      "temp": "190 °C",
+      "time": "12-14 minutos",
+      "note": "En bandeja con papel de horno."
+    }
+  },
+  {
+    "id": "airfryer-25-solomillo-de-cerdo-con-manzana-y-puerro",
+    "title": "Solomillo de cerdo con manzana y puerro",
+    "method": "AirFryer",
+    "mealType": "Comida",
+    "servingsBase": 2,
+    "prepTime": "10 min",
+    "cookTime": "16 min",
+    "totalTime": "26 min",
+    "difficulty": "Fácil",
+    "nutrition": {
+      "kcal": 290,
+      "protein": 34,
+      "carbs": 14,
+      "fat": 9
+    },
+    "ingredients": [
+      "400 g de solomillo de cerdo en medallones",
+      "1 manzana en gajos",
+      "1 puerro en rodajas",
+      "Sal, pimienta, tomillo",
+      "Aceite de oliva"
+    ],
+    "steps": [
+      "Salpimenta los medallones de solomillo.",
+      "Colócalos en la cesta de la AirFryer junto con la manzana y el puerro aderezados con aceite y tomillo.",
+      "Cocina a 190 °C durante 14-16 minutos, volteando a mitad de cocción.",
+      "Comprueba que el cerdo alcanza 63 °C en el centro antes de servir."
+    ],
+    "tips": "Corta los medallones de grosor similar para que se hagan de manera uniforme.",
+    "ovenAlt": {
+      "temp": "210 °C",
+      "time": "20-22 minutos",
+      "note": "Bandeja con papel de horno; voltear a mitad de cocción."
+    }
+  },
+  {
+    "id": "airfryer-26-bacalao-con-tomate-y-pimientos",
+    "title": "Bacalao con tomate y pimientos",
+    "method": "AirFryer",
+    "mealType": "Comida",
+    "servingsBase": 2,
+    "prepTime": "10 min",
+    "cookTime": "14 min",
+    "totalTime": "24 min",
+    "difficulty": "Fácil",
+    "nutrition": {
+      "kcal": 210,
+      "protein": 30,
+      "carbs": 10,
+      "fat": 6
+    },
+    "ingredients": [
+      "2 lomos de bacalao desalado (300 g)",
+      "2 tomates maduros en rodajas",
+      "1 pimiento rojo en tiras",
+      "1/2 cebolla",
+      "Aceite de oliva, orégano y sal"
+    ],
+    "steps": [
+      "Coloca en un molde apto para AirFryer una base de tomate, pimiento y cebolla.",
+      "Pon el bacalao encima, riega con aceite y espolvorea orégano.",
+      "Cocina a 180 °C durante 12-14 minutos, hasta que el pescado esté hecho y las verduras tiernas."
+    ],
+    "tips": "Si el bacalao no está bien desalado, redúcela sal de la receta.",
+    "ovenAlt": {
+      "temp": "200 °C",
+      "time": "18-20 minutos",
+      "note": "Mismo molde, tapado con papel de aluminio los primeros 10 minutos."
+    }
+  },
+  {
+    "id": "airfryer-27-salmon-con-patatas-y-judias-verdes",
+    "title": "Salmón con patatas y judías verdes",
+    "method": "AirFryer",
+    "mealType": "Comida",
+    "servingsBase": 2,
+    "prepTime": "10 min",
+    "cookTime": "22 min",
+    "totalTime": "32 min",
+    "difficulty": "Fácil",
+    "nutrition": {
+      "kcal": 380,
+      "protein": 32,
+      "carbs": 26,
+      "fat": 16
+    },
+    "ingredients": [
+      "2 lomos de salmón (300 g)",
+      "300 g de patatas pequeñas en cuartos",
+      "200 g de judías verdes",
+      "Aceite de oliva, limón, sal y pimienta"
+    ],
+    "steps": [
+      "Cocina primero las patatas con aceite y sal a 200 °C durante 12 minutos.",
+      "Añade el salmón y las judías verdes y continúa la cocción 10 minutos más.",
+      "Sirve con un chorrito de limón."
+    ],
+    "tips": "Corta las patatas en trozos pequeños y similares para que se hagan bien en el tiempo total.",
+    "ovenAlt": {
+      "temp": "210 °C",
+      "time": "patatas 20 min solas + 15 min con el salmón y las judías",
+      "note": "Añade el salmón y las judías tras el primer tramo de horneado de las patatas."
+    }
+  },
+  {
+    "id": "airfryer-28-pechuga-de-pollo-rellena-de-jamon-y-queso",
+    "title": "Pechuga de pollo rellena de jamón y queso",
+    "method": "AirFryer",
+    "mealType": "Comida",
+    "servingsBase": 2,
+    "prepTime": "15 min",
+    "cookTime": "18 min",
+    "totalTime": "33 min",
+    "difficulty": "Media",
+    "nutrition": {
+      "kcal": 320,
+      "protein": 42,
+      "carbs": 3,
+      "fat": 14
+    },
+    "ingredients": [
+      "2 pechugas de pollo grandes",
+      "4 lonchas de jamón cocido",
+      "4 lonchas de queso light",
+      "Sal, pimienta y orégano",
+      "Palillos"
+    ],
+    "steps": [
+      "Abre las pechugas en libro (a lo largo, sin llegar a cortar del todo) y salpimenta.",
+      "Rellena con el jamón y el queso, cierra y sujeta con palillos.",
+      "Cocina en la AirFryer a 190 °C durante 16-18 minutos, volteando a mitad de cocción.",
+      "Comprueba que el pollo está bien hecho por dentro y retira los palillos antes de servir."
+    ],
+    "tips": "Si se abre durante la cocción, sujétala con un palillo más; el queso se escapará igualmente un poco y es normal.",
+    "ovenAlt": {
+      "temp": "210 °C",
+      "time": "25-28 minutos",
+      "note": "Bandeja con papel de horno; voltear a mitad de cocción."
+    }
+  },
+  {
+    "id": "airfryer-29-palomitas-de-coliflor-rebozadas",
+    "title": "Palomitas de coliflor rebozadas",
+    "method": "AirFryer",
+    "mealType": "Merienda",
+    "servingsBase": 4,
+    "prepTime": "10 min",
+    "cookTime": "13 min",
+    "totalTime": "23 min",
+    "difficulty": "Fácil",
+    "nutrition": {
+      "kcal": 130,
+      "protein": 7,
+      "carbs": 14,
+      "fat": 5
+    },
+    "ingredients": [
+      "400 g de coliflor en arbolitos pequeños",
+      "1 huevo batido",
+      "50 g de pan rallado",
+      "20 g de queso parmesano rallado",
+      "Sal y pimentón"
+    ],
+    "steps": [
+      "Cuece al vapor la coliflor 3 minutos para ablandarla ligeramente.",
+      "Pasa cada arbolito por huevo y luego por la mezcla de pan rallado, parmesano, sal y pimentón.",
+      "Cocina en la AirFryer a 200 °C durante 12-14 minutos, agitando la cesta a mitad de cocción, hasta dorar."
+    ],
+    "tips": "No satures la cesta: cocina en dos tandas si hace falta para que quede crujiente por todos los lados.",
+    "ovenAlt": {
+      "temp": "220 °C",
+      "time": "18-20 minutos",
+      "note": "Dar la vuelta a mitad de cocción."
+    }
+  },
+  {
+    "id": "airfryer-30-croquetas-de-calabacin-y-queso",
+    "title": "Croquetas de calabacín y queso",
+    "method": "AirFryer",
+    "mealType": "Merienda",
+    "servingsBase": 4,
+    "prepTime": "15 min",
+    "cookTime": "14 min",
+    "totalTime": "29 min",
+    "difficulty": "Media",
+    "nutrition": {
+      "kcal": 160,
+      "protein": 10,
+      "carbs": 12,
+      "fat": 8
+    },
+    "ingredients": [
+      "2 calabacines rallados y bien escurridos",
+      "100 g de queso rallado",
+      "2 huevos",
+      "60 g de pan rallado",
+      "Ajo en polvo, sal y pimienta"
+    ],
+    "steps": [
+      "Mezcla el calabacín escurrido con el queso, un huevo, la mitad del pan rallado, ajo en polvo, sal y pimienta.",
+      "Forma croquetas pequeñas con las manos.",
+      "Pasa cada una por el huevo restante batido y después por el resto del pan rallado.",
+      "Cocina en la AirFryer a 190 °C durante 12-14 minutos, volteando a mitad de cocción."
+    ],
+    "tips": "Escurrir muy bien el calabacín es lo que evita que las croquetas se deshagan.",
+    "ovenAlt": {
+      "temp": "210 °C",
+      "time": "18-20 minutos",
+      "note": "Voltear a mitad de cocción."
+    }
+  },
+  {
+    "id": "airfryer-31-bizcocho-de-zanahoria-y-manzana",
+    "title": "Bizcocho de zanahoria y manzana",
+    "method": "AirFryer",
+    "mealType": "Merienda",
+    "servingsBase": 8,
+    "prepTime": "10 min",
+    "cookTime": "27 min",
+    "totalTime": "37 min",
+    "difficulty": "Media",
+    "nutrition": {
+      "kcal": 150,
+      "protein": 5,
+      "carbs": 18,
+      "fat": 6
+    },
+    "ingredients": [
+      "200 g de zanahoria rallada",
+      "1 manzana rallada",
+      "3 huevos",
+      "100 g de harina de avena",
+      "50 g de azúcar moreno",
+      "1 sobre de levadura química",
+      "50 ml de aceite de oliva suave"
+    ],
+    "steps": [
+      "Mezcla todos los ingredientes en un bol hasta obtener una masa homogénea.",
+      "Vierte la masa en un molde apto para AirFryer forrado con papel de horno.",
+      "Cocina a 160 °C durante 25-28 minutos.",
+      "Comprueba el punto pinchando con un palillo (debe salir limpio) y deja enfriar antes de desmoldar."
+    ],
+    "tips": "Rinde 8 porciones; se conserva 3-4 días en un recipiente hermético.",
+    "ovenAlt": {
+      "temp": "180 °C",
+      "time": "35-40 minutos",
+      "note": "Mismo molde; comprobar el punto con un palillo."
+    }
+  },
+  {
+    "id": "airfryer-32-bunuelos-de-manzana-al-airfryer",
+    "title": "Buñuelos de manzana al AirFryer",
+    "method": "AirFryer",
+    "mealType": "Merienda",
+    "servingsBase": 4,
+    "prepTime": "10 min",
+    "cookTime": "12 min",
+    "totalTime": "22 min",
+    "difficulty": "Fácil",
+    "nutrition": {
+      "kcal": 140,
+      "protein": 5,
+      "carbs": 24,
+      "fat": 3
+    },
+    "ingredients": [
+      "2 manzanas en rodajas de 1 cm",
+      "100 g de harina de avena",
+      "1 huevo",
+      "100 ml de leche",
+      "1 cucharadita de levadura química",
+      "Spray de aceite de oliva"
+    ],
+    "steps": [
+      "Prepara una masa ligera mezclando la harina de avena, el huevo, la leche y la levadura.",
+      "Reboza cada rodaja de manzana en la masa.",
+      "Coloca las rodajas en la cesta de la AirFryer engrasada con spray de aceite.",
+      "Cocina a 180 °C durante 10-12 minutos, volteando a mitad de cocción, hasta dorar."
+    ],
+    "tips": "Sirve templados; si prefieres un extra de dulzor, añade un poco de miel por encima al servir.",
+    "ovenAlt": {
+      "temp": "200 °C",
+      "time": "16-18 minutos",
+      "note": "Sobre papel de horno; voltear a mitad de cocción."
+    }
+  },
+  {
+    "id": "airfryer-33-palitos-de-queso-empanados",
+    "title": "Palitos de queso empanados",
+    "method": "AirFryer",
+    "mealType": "Snack",
+    "servingsBase": 2,
+    "prepTime": "15 min + 20 min congelador",
+    "cookTime": "8 min",
+    "totalTime": "43 min",
+    "difficulty": "Media",
+    "nutrition": {
+      "kcal": 220,
+      "protein": 14,
+      "carbs": 12,
+      "fat": 13
+    },
+    "ingredients": [
+      "150 g de queso mozzarella (o similar) en barritas",
+      "1 huevo batido",
+      "40 g de pan rallado",
+      "20 g de harina",
+      "Orégano"
+    ],
+    "steps": [
+      "Pasa cada palito de queso por harina, luego por huevo y por último por pan rallado con orégano.",
+      "Congela los palitos empanados 20 minutos para que no se derritan del todo en la cocción.",
+      "Cocina en la AirFryer a 200 °C durante 6-8 minutos, hasta dorar, vigilando que no se rompan."
+    ],
+    "tips": "El paso de congelación es clave: sin él el queso se sale antes de que el rebozado se dore.",
+    "ovenAlt": {
+      "temp": "220 °C con grill",
+      "time": "8-10 minutos",
+      "note": "Vigilar de cerca los últimos minutos para que no se rompan."
+    }
+  },
+  {
+    "id": "airfryer-34-patatas-gajo-con-pimenton",
+    "title": "Patatas gajo con pimentón",
+    "method": "AirFryer",
+    "mealType": "Snack",
+    "servingsBase": 2,
+    "prepTime": "10 min",
+    "cookTime": "19 min",
+    "totalTime": "29 min",
+    "difficulty": "Fácil",
+    "nutrition": {
+      "kcal": 190,
+      "protein": 4,
+      "carbs": 34,
+      "fat": 5
+    },
+    "ingredients": [
+      "3 patatas medianas en gajos",
+      "1 cucharada de aceite de oliva",
+      "Pimentón dulce, ajo en polvo y sal"
+    ],
+    "steps": [
+      "Mezcla los gajos de patata con el aceite y las especias.",
+      "Cocina en la AirFryer a 200 °C durante 18-20 minutos, agitando la cesta cada 5-6 minutos, hasta que estén doradas y crujientes."
+    ],
+    "tips": "Deja la piel de la patata: aporta fibra y ayuda a que el gajo mantenga la forma.",
+    "ovenAlt": {
+      "temp": "220 °C",
+      "time": "30-35 minutos",
+      "note": "Voltear a mitad de cocción."
+    }
+  },
+  {
+    "id": "airfryer-35-nuggets-de-pollo-caseros",
+    "title": "Nuggets de pollo caseros",
+    "method": "AirFryer",
+    "mealType": "Snack",
+    "servingsBase": 2,
+    "prepTime": "15 min",
+    "cookTime": "13 min",
+    "totalTime": "28 min",
+    "difficulty": "Fácil",
+    "nutrition": {
+      "kcal": 260,
+      "protein": 34,
+      "carbs": 14,
+      "fat": 8
+    },
+    "ingredients": [
+      "400 g de pechuga de pollo en trozos",
+      "1 huevo batido",
+      "60 g de pan rallado",
+      "20 g de queso parmesano rallado",
+      "Sal y pimentón"
+    ],
+    "steps": [
+      "Pasa los trozos de pollo por huevo y luego por la mezcla de pan rallado, parmesano, sal y pimentón.",
+      "Cocina en la AirFryer a 190 °C durante 12-14 minutos, volteando a mitad de cocción, hasta dorar y que el pollo esté hecho por dentro."
+    ],
+    "tips": "Corta los trozos de tamaño similar para que se cocinen de manera uniforme.",
+    "ovenAlt": {
+      "temp": "210 °C",
+      "time": "18-20 minutos",
+      "note": "Voltear a mitad de cocción."
+    }
+  },
+  {
+    "id": "airfryer-36-champinones-al-ajillo-crujientes",
+    "title": "Champiñones al ajillo crujientes",
+    "method": "AirFryer",
+    "mealType": "Snack",
+    "servingsBase": 2,
+    "prepTime": "10 min",
+    "cookTime": "11 min",
+    "totalTime": "21 min",
+    "difficulty": "Fácil",
+    "nutrition": {
+      "kcal": 150,
+      "protein": 8,
+      "carbs": 14,
+      "fat": 6
+    },
+    "ingredients": [
+      "300 g de champiñones enteros",
+      "2 dientes de ajo picados",
+      "1 huevo batido",
+      "40 g de pan rallado",
+      "Perejil y sal"
+    ],
+    "steps": [
+      "Mezcla el pan rallado con el ajo picado y el perejil.",
+      "Pasa los champiñones por huevo y luego por esta mezcla.",
+      "Cocina en la AirFryer a 190 °C durante 10-12 minutos, agitando la cesta a mitad de cocción, hasta dorar."
+    ],
+    "tips": "Elige champiñones de tamaño similar para que se cocinen de manera uniforme.",
+    "ovenAlt": {
+      "temp": "210 °C",
+      "time": "16-18 minutos",
+      "note": "Agitar la bandeja a mitad de cocción."
+    }
+  },
+  {
+    "id": "airfryer-37-salmon-con-costra-de-pan-integral-y-hierbas",
+    "title": "Salmón con costra de pan integral y hierbas",
+    "method": "AirFryer",
+    "mealType": "Cena",
+    "servingsBase": 2,
+    "prepTime": "10 min",
+    "cookTime": "12 min",
+    "totalTime": "22 min",
+    "difficulty": "Fácil",
+    "nutrition": {
+      "kcal": 350,
+      "protein": 33,
+      "carbs": 8,
+      "fat": 20
+    },
+    "ingredients": [
+      "2 lomos de salmón (300 g)",
+      "30 g de pan integral rallado",
+      "Perejil y eneldo picados",
+      "1 diente de ajo picado",
+      "Aceite de oliva y limón"
+    ],
+    "steps": [
+      "Mezcla el pan rallado con las hierbas, el ajo picado y un chorrito de aceite.",
+      "Cubre la parte superior de cada lomo de salmón con esta mezcla, presionando bien.",
+      "Cocina en la AirFryer a 190 °C durante 10-12 minutos, hasta que la costra esté dorada y el salmón hecho.",
+      "Sirve con un chorrito de limón."
+    ],
+    "tips": "Si el pan rallado no se dora lo suficiente, añade 2 minutos más vigilando que el salmón no se pase.",
+    "ovenAlt": {
+      "temp": "210 °C",
+      "time": "15-16 minutos",
+      "note": "Grill los últimos 2 minutos para dorar bien la costra."
+    }
+  },
+  {
+    "id": "airfryer-38-bacalao-con-esparragos-trigueros",
+    "title": "Bacalao con espárragos trigueros",
+    "method": "AirFryer",
+    "mealType": "Cena",
+    "servingsBase": 2,
+    "prepTime": "10 min",
+    "cookTime": "12 min",
+    "totalTime": "22 min",
+    "difficulty": "Fácil",
+    "nutrition": {
+      "kcal": 200,
+      "protein": 30,
+      "carbs": 6,
+      "fat": 6
+    },
+    "ingredients": [
+      "2 lomos de bacalao desalado (300 g)",
+      "1 manojo de espárragos trigueros",
+      "Aceite de oliva",
+      "Ajo laminado, sal y pimienta"
+    ],
+    "steps": [
+      "Coloca el bacalao y los espárragos en la cesta de la AirFryer.",
+      "Riega con aceite y reparte el ajo laminado, sal y pimienta.",
+      "Cocina a 180 °C durante 12 minutos, hasta que el pescado esté hecho y los espárragos tiernos."
+    ],
+    "tips": "Retira la parte más dura y leñosa del tallo de los espárragos antes de cocinarlos.",
+    "ovenAlt": {
+      "temp": "200 °C",
+      "time": "18-20 minutos",
+      "note": "Mismo tiempo aproximado para el pescado y los espárragos juntos."
+    }
+  },
+  {
+    "id": "airfryer-39-pechugas-de-pollo-con-verduras-mediterraneas",
+    "title": "Pechugas de pollo con verduras mediterráneas",
+    "method": "AirFryer",
+    "mealType": "Cena",
+    "servingsBase": 2,
+    "prepTime": "10 min",
+    "cookTime": "17 min",
+    "totalTime": "27 min",
+    "difficulty": "Fácil",
+    "nutrition": {
+      "kcal": 270,
+      "protein": 38,
+      "carbs": 12,
+      "fat": 7
+    },
+    "ingredients": [
+      "2 pechugas de pollo (300 g)",
+      "1 calabacín",
+      "1 pimiento",
+      "1/2 cebolla",
+      "1 tomate",
+      "Orégano, aceite de oliva y sal"
+    ],
+    "steps": [
+      "Corta el pollo y las verduras en trozos de tamaño similar.",
+      "Mezcla todo con aceite, orégano y sal.",
+      "Cocina en la AirFryer a 200 °C durante 16-18 minutos, removiendo a mitad de cocción, hasta que el pollo esté hecho y las verduras tiernas."
+    ],
+    "tips": "Corta las verduras algo más grandes que el pollo para que no se hagan antes de tiempo.",
+    "ovenAlt": {
+      "temp": "210 °C",
+      "time": "25-28 minutos",
+      "note": "Remover a mitad de cocción."
+    }
+  },
+  {
+    "id": "airfryer-40-hamburguesas-caseras-de-pavo-con-ensalada",
+    "title": "Hamburguesas caseras de pavo con ensalada",
+    "method": "AirFryer",
+    "mealType": "Cena",
+    "servingsBase": 2,
+    "prepTime": "15 min",
+    "cookTime": "13 min",
+    "totalTime": "28 min",
+    "difficulty": "Fácil",
+    "nutrition": {
+      "kcal": 280,
+      "protein": 32,
+      "carbs": 10,
+      "fat": 12
+    },
+    "ingredients": [
+      "400 g de carne picada de pavo",
+      "1 huevo",
+      "30 g de pan rallado",
+      "Ajo y perejil picados",
+      "Sal y pimienta",
+      "Ensalada verde para acompañar"
+    ],
+    "steps": [
+      "Mezcla la carne con el huevo, el pan rallado, el ajo, el perejil, sal y pimienta.",
+      "Forma 4 hamburguesas con las manos húmedas.",
+      "Cocina en la AirFryer a 190 °C durante 12-14 minutos, volteando a mitad de cocción.",
+      "Sirve con ensalada verde."
+    ],
+    "tips": "No aprietes demasiado la carne al formar las hamburguesas para que queden jugosas.",
+    "ovenAlt": {
+      "temp": "210 °C",
+      "time": "18-20 minutos",
+      "note": "Voltear a mitad de cocción."
+    }
+  },
+  {
+    "id": "thermomix-01-porridge-de-avena-manzana-y-canela",
+    "title": "Porridge de avena, manzana y canela",
+    "method": "Thermomix",
+    "mealType": "Desayuno",
+    "servingsBase": 2,
+    "prepTime": "3 min",
+    "cookTime": "6 min",
+    "totalTime": "9 min",
+    "difficulty": "Fácil",
+    "nutrition": {
+      "kcal": 240,
+      "protein": 8,
+      "carbs": 42,
+      "fat": 4
+    },
+    "ingredients": [
+      "400 ml de bebida vegetal o leche",
+      "100 g de copos de avena",
+      "1 manzana troceada",
+      "1 cucharadita de canela",
+      "1 cucharada de miel (opcional)"
+    ],
+    "steps": [
+      "Pon todos los ingredientes en el vaso.",
+      "Programa 6 min / 90 °C / velocidad 2.",
+      "Deja reposar 2 minutos, remueve y sirve caliente."
+    ],
+    "tips": "Añade una cucharada de crema de cacahuete o unos frutos secos por encima para más proteína y grasas saludables.",
+    "ovenAlt": null
+  },
+  {
+    "id": "thermomix-02-batido-bowl-proteico-de-frutos-rojos",
+    "title": "Batido bowl proteico de frutos rojos",
+    "method": "Thermomix",
+    "mealType": "Desayuno",
+    "servingsBase": 2,
+    "prepTime": "5 min",
+    "cookTime": "1 min",
+    "totalTime": "6 min",
+    "difficulty": "Fácil",
+    "nutrition": {
+      "kcal": 260,
+      "protein": 20,
+      "carbs": 32,
+      "fat": 4
+    },
+    "ingredients": [
+      "200 g de frutos rojos congelados",
+      "1 plátano",
+      "200 g de yogur griego",
+      "20 g de proteína en polvo (o 30 g de copos de avena)",
+      "Toppings: granola, semillas de chía"
+    ],
+    "steps": [
+      "Pon los frutos rojos, el plátano, el yogur y la proteína en el vaso.",
+      "Programa 30 segundos / velocidad 6-8, hasta obtener una textura cremosa tipo helado.",
+      "Sirve en un bowl y añade los toppings."
+    ],
+    "tips": "Usa la fruta congelada directamente del congelador para conseguir la textura espesa típica del \"smoothie bowl\".",
+    "ovenAlt": null
+  },
+  {
+    "id": "thermomix-03-crema-de-platano-y-cacao-mousse-proteica",
+    "title": "Crema de plátano y cacao (mousse proteica)",
+    "method": "Thermomix",
+    "mealType": "Desayuno",
+    "servingsBase": 2,
+    "prepTime": "5 min",
+    "cookTime": "1 min",
+    "totalTime": "6 min",
+    "difficulty": "Fácil",
+    "nutrition": {
+      "kcal": 220,
+      "protein": 12,
+      "carbs": 28,
+      "fat": 8
+    },
+    "ingredients": [
+      "2 plátanos congelados en rodajas",
+      "200 g de yogur griego",
+      "2 cucharadas de cacao puro sin azúcar",
+      "1 cucharada de mantequilla de cacahuete"
+    ],
+    "steps": [
+      "Coloca todos los ingredientes en el vaso.",
+      "Tritura 30-40 segundos / velocidad 6-8, bajando los restos con la espátula si hace falta, hasta obtener una crema homogénea.",
+      "Sirve frío inmediatamente."
+    ],
+    "tips": "Congela los plátanos en rodajas con antelación; así la textura queda tipo mousse sin necesidad de añadir hielo.",
+    "ovenAlt": null
+  },
+  {
+    "id": "thermomix-04-pan-integral-rapido-en-thermomix",
+    "title": "Pan integral rápido en Thermomix",
+    "method": "Thermomix",
+    "mealType": "Desayuno",
+    "servingsBase": 12,
+    "prepTime": "10 min + 40 min reposo",
+    "cookTime": "25 min",
+    "totalTime": "75 min",
+    "difficulty": "Media",
+    "nutrition": {
+      "kcal": 100,
+      "protein": 3,
+      "carbs": 19,
+      "fat": 1
+    },
+    "ingredients": [
+      "300 g de harina integral",
+      "200 ml de agua templada",
+      "5 g de levadura seca de panadería",
+      "1 cucharadita de sal",
+      "1 cucharada de aceite de oliva"
+    ],
+    "steps": [
+      "Pon el agua templada y la levadura en el vaso: 2 min / 37 °C / velocidad 2.",
+      "Añade la harina, la sal y el aceite. Amasa 3 minutos, vaso cerrado, velocidad espiga (o modo amasar).",
+      "Retira la masa, forma una bola, cúbrela y deja levar en un lugar templado 40 minutos.",
+      "Da forma a una barra, colócala en una bandeja de horno y hornea en horno convencional precalentado a 200 °C durante 25-30 minutos.",
+      "Deja enfriar sobre una rejilla antes de cortar."
+    ],
+    "tips": "Este paso final se hornea en el horno, no en la Thermomix. Rinde unas 12 rebanadas, ideal para toda la semana.",
+    "ovenAlt": null
+  },
+  {
+    "id": "thermomix-05-crema-de-calabacin-y-puerro-con-pollo",
+    "title": "Crema de calabacín y puerro con pollo",
+    "method": "Thermomix",
+    "mealType": "Comida",
+    "servingsBase": 2,
+    "prepTime": "10 min",
+    "cookTime": "25 min",
+    "totalTime": "35 min",
+    "difficulty": "Fácil",
+    "nutrition": {
+      "kcal": 210,
+      "protein": 24,
+      "carbs": 16,
+      "fat": 4
+    },
+    "ingredients": [
+      "3 calabacines troceados",
+      "1 puerro troceado",
+      "1 patata pequeña troceada",
+      "200 g de pechuga de pollo cocida y desmenuzada",
+      "500 ml de caldo de verduras",
+      "Sal, pimienta y nuez moscada"
+    ],
+    "steps": [
+      "Pon el calabacín, el puerro, la patata y el caldo en el vaso.",
+      "Programa 25 min / 100 °C / velocidad 1.",
+      "Tritura 1 minuto / velocidad 5-8, subiendo progresivamente, hasta que quede cremoso.",
+      "Añade el pollo desmenuzado, mezcla 20 segundos / velocidad 2-3 y sirve."
+    ],
+    "tips": "El pollo puedes cocerlo el día anterior o usar restos de otra comida para ahorrar tiempo.",
+    "ovenAlt": null
+  },
+  {
+    "id": "thermomix-06-arroz-integral-con-verduras-al-vapor-y-pollo-varoma",
+    "title": "Arroz integral con verduras al vapor y pollo (Varoma)",
+    "method": "Thermomix",
+    "mealType": "Comida",
+    "servingsBase": 2,
+    "prepTime": "10 min",
+    "cookTime": "28 min",
+    "totalTime": "38 min",
+    "difficulty": "Media",
+    "nutrition": {
+      "kcal": 380,
+      "protein": 32,
+      "carbs": 46,
+      "fat": 6
+    },
+    "ingredients": [
+      "200 g de arroz integral",
+      "400 ml de agua o caldo",
+      "300 g de pechuga de pollo en tiras",
+      "1 zanahoria en bastones",
+      "150 g de brócoli",
+      "1 pimiento en tiras"
+    ],
+    "steps": [
+      "Pon el arroz y el agua o caldo en el vaso.",
+      "Coloca el pollo y las verduras en el recipiente Varoma y ajústalo en su posición.",
+      "Programa 25-28 minutos / Varoma / velocidad 1.",
+      "Comprueba que el arroz está en su punto y el pollo bien cocinado; sirve todo junto."
+    ],
+    "tips": "Corta las verduras de tamaño similar para que se cocinen de manera uniforme en el Varoma.",
+    "ovenAlt": null
+  },
+  {
+    "id": "thermomix-07-lentejas-estofadas-con-verduras",
+    "title": "Lentejas estofadas con verduras",
+    "method": "Thermomix",
+    "mealType": "Comida",
+    "servingsBase": 4,
+    "prepTime": "10 min",
+    "cookTime": "35 min",
+    "totalTime": "45 min",
+    "difficulty": "Fácil",
+    "nutrition": {
+      "kcal": 260,
+      "protein": 16,
+      "carbs": 40,
+      "fat": 4
+    },
+    "ingredients": [
+      "250 g de lentejas pardinas",
+      "1 zanahoria",
+      "1 cebolla",
+      "1 pimiento verde",
+      "1 tomate maduro",
+      "1 diente de ajo",
+      "1 cucharadita de pimentón",
+      "700 ml de agua o caldo",
+      "1 hoja de laurel"
+    ],
+    "steps": [
+      "Trocea la zanahoria, la cebolla, el pimiento y el ajo: 5 segundos / velocidad 4.",
+      "Añade un chorrito de aceite y sofríe 5 min / 100 °C / velocidad 1.",
+      "Incorpora el tomate, las lentejas, el pimentón, el laurel y el caldo.",
+      "Programa 30-35 min / 100 °C / velocidad cuchara (giro a la izquierda) o velocidad 1.",
+      "Rectifica de sal y sirve."
+    ],
+    "tips": "Si usas lentejas secas de cocción larga, aumenta el tiempo según las indicaciones del paquete.",
+    "ovenAlt": null
+  },
+  {
+    "id": "thermomix-08-salmon-al-vapor-con-salsa-de-yogur-y-eneldo-varoma",
+    "title": "Salmón al vapor con salsa de yogur y eneldo (Varoma)",
+    "method": "Thermomix",
+    "mealType": "Comida",
+    "servingsBase": 2,
+    "prepTime": "10 min",
+    "cookTime": "22 min",
+    "totalTime": "32 min",
+    "difficulty": "Media",
+    "nutrition": {
+      "kcal": 340,
+      "protein": 32,
+      "carbs": 18,
+      "fat": 15
+    },
+    "ingredients": [
+      "2 lomos de salmón (300 g)",
+      "300 g de patatas pequeñas",
+      "150 g de judías verdes",
+      "150 g de yogur griego",
+      "Eneldo fresco, limón y sal"
+    ],
+    "steps": [
+      "Pon agua en el vaso junto con las patatas troceadas.",
+      "Coloca el salmón y las judías verdes en el Varoma.",
+      "Programa 20-22 min / Varoma / velocidad 1.",
+      "Mientras tanto, mezcla el yogur con el eneldo picado, unas gotas de limón y sal.",
+      "Sirve el salmón con las verduras y la salsa de yogur y eneldo."
+    ],
+    "tips": "Si las patatas son grandes, córtalas en trozos pequeños para que se cocinen en el mismo tiempo que el pescado.",
+    "ovenAlt": null
+  },
+  {
+    "id": "thermomix-09-compota-de-manzana-y-canela-sin-azucar",
+    "title": "Compota de manzana y canela sin azúcar",
+    "method": "Thermomix",
+    "mealType": "Merienda",
+    "servingsBase": 4,
+    "prepTime": "5 min",
+    "cookTime": "15 min",
+    "totalTime": "20 min",
+    "difficulty": "Fácil",
+    "nutrition": {
+      "kcal": 70,
+      "protein": 0,
+      "carbs": 18,
+      "fat": 0
+    },
+    "ingredients": [
+      "4 manzanas troceadas",
+      "100 ml de agua",
+      "1 cucharadita de canela",
+      "Zumo de 1/2 limón"
+    ],
+    "steps": [
+      "Pon la manzana, el agua, la canela y el zumo de limón en el vaso.",
+      "Programa 15 min / 100 °C / velocidad 1.",
+      "Si la prefieres más fina, tritura 20 segundos / velocidad 4.",
+      "Sirve templada o fría."
+    ],
+    "tips": "Se conserva 4-5 días en la nevera en un bote hermético; también se puede congelar en raciones.",
+    "ovenAlt": null
+  },
+  {
+    "id": "thermomix-10-yogur-casero-con-miel-y-nueces",
+    "title": "Yogur casero con miel y nueces",
+    "method": "Thermomix",
+    "mealType": "Merienda",
+    "servingsBase": 6,
+    "prepTime": "10 min + 8 h reposo",
+    "cookTime": "6 min",
+    "totalTime": "8 h 16 min",
+    "difficulty": "Media",
+    "nutrition": {
+      "kcal": 130,
+      "protein": 7,
+      "carbs": 12,
+      "fat": 6
+    },
+    "ingredients": [
+      "1 litro de leche",
+      "1 yogur natural (como fermento)",
+      "1 cucharada de miel",
+      "Nueces troceadas"
+    ],
+    "steps": [
+      "Calienta la leche 6 min / 90 °C / velocidad 2.",
+      "Deja enfriar hasta que la leche esté templada, unos 37 °C (puedes medirlo con el vaso destapado, sin programar).",
+      "Añade el yogur natural y mezcla 15 segundos / velocidad 3.",
+      "Reparte en tarritos de cristal, tapa y mantén en un lugar cálido (horno apagado con la luz encendida, o yogurtera) durante 8 horas.",
+      "Refrigera al menos 2 horas antes de servir con miel y nueces."
+    ],
+    "tips": "Cuanto más tiempo de fermentación, más ácido queda el yogur; 8 horas suele dar un punto suave.",
+    "ovenAlt": null
+  },
+  {
+    "id": "thermomix-11-batido-de-cacao-y-platano",
+    "title": "Batido de cacao y plátano",
+    "method": "Thermomix",
+    "mealType": "Merienda",
+    "servingsBase": 2,
+    "prepTime": "5 min",
+    "cookTime": "1 min",
+    "totalTime": "6 min",
+    "difficulty": "Fácil",
+    "nutrition": {
+      "kcal": 180,
+      "protein": 6,
+      "carbs": 32,
+      "fat": 3
+    },
+    "ingredients": [
+      "300 ml de bebida vegetal o leche",
+      "1 plátano",
+      "1 cucharada de cacao puro sin azúcar",
+      "Hielo al gusto"
+    ],
+    "steps": [
+      "Pon todos los ingredientes en el vaso.",
+      "Programa 30 segundos / velocidad 6-8.",
+      "Sirve inmediatamente bien frío."
+    ],
+    "tips": "Añade una cucharada de avena si quieres un batido más saciante para media tarde.",
+    "ovenAlt": null
+  },
+  {
+    "id": "thermomix-12-bizcocho-proteico-de-zanahoria",
+    "title": "Bizcocho proteico de zanahoria",
+    "method": "Thermomix",
+    "mealType": "Merienda",
+    "servingsBase": 10,
+    "prepTime": "10 min",
+    "cookTime": "35 min",
+    "totalTime": "45 min",
+    "difficulty": "Media",
+    "nutrition": {
+      "kcal": 130,
+      "protein": 4,
+      "carbs": 14,
+      "fat": 6
+    },
+    "ingredients": [
+      "200 g de zanahoria troceada",
+      "3 huevos",
+      "80 g de harina de avena",
+      "50 g de eritritol o azúcar de coco",
+      "1 sobre de levadura química",
+      "1 cucharadita de canela",
+      "50 ml de aceite de oliva suave"
+    ],
+    "steps": [
+      "Ralla la zanahoria: 5 segundos / velocidad 5.",
+      "Añade los huevos, la harina de avena, el edulcorante, la levadura, la canela y el aceite.",
+      "Mezcla 20 segundos / velocidad 4, bajando los restos con la espátula.",
+      "Vierte la mezcla en un molde apto para horno.",
+      "Hornea en horno convencional precalentado a 180 °C durante 30-35 minutos (comprueba con un palillo)."
+    ],
+    "tips": "La cocción final se hace en el horno, no en la Thermomix. Rinde unas 10 porciones.",
+    "ovenAlt": null
+  },
+  {
+    "id": "thermomix-13-hummus-clasico-de-garbanzos",
+    "title": "Hummus clásico de garbanzos",
+    "method": "Thermomix",
+    "mealType": "Snack",
+    "servingsBase": 4,
+    "prepTime": "5 min",
+    "cookTime": "1 min",
+    "totalTime": "6 min",
+    "difficulty": "Fácil",
+    "nutrition": {
+      "kcal": 180,
+      "protein": 7,
+      "carbs": 14,
+      "fat": 11
+    },
+    "ingredients": [
+      "300 g de garbanzos cocidos",
+      "1 diente de ajo",
+      "Zumo de 1 limón",
+      "2 cucharadas de tahini",
+      "3 cucharadas de aceite de oliva",
+      "1/2 cucharadita de comino, sal"
+    ],
+    "steps": [
+      "Pon todos los ingredientes en el vaso.",
+      "Tritura 40 segundos / velocidad 6-7.",
+      "Baja los restos de las paredes con la espátula y repite 20 segundos más si no ha quedado cremoso."
+    ],
+    "tips": "Si queda muy espeso, añade una cucharada de agua fría y vuelve a triturar unos segundos.",
+    "ovenAlt": null
+  },
+  {
+    "id": "thermomix-14-pate-de-atun-y-aguacate",
+    "title": "Paté de atún y aguacate",
+    "method": "Thermomix",
+    "mealType": "Snack",
+    "servingsBase": 2,
+    "prepTime": "5 min",
+    "cookTime": "30 seg",
+    "totalTime": "6 min",
+    "difficulty": "Fácil",
+    "nutrition": {
+      "kcal": 210,
+      "protein": 22,
+      "carbs": 4,
+      "fat": 12
+    },
+    "ingredients": [
+      "2 latas de atún al natural, escurrido",
+      "1 aguacate",
+      "Zumo de 1/2 limón",
+      "Sal, pimienta y cebollino picado"
+    ],
+    "steps": [
+      "Pon el atún, el aguacate, el zumo de limón, sal y pimienta en el vaso.",
+      "Tritura 15-20 segundos / velocidad 4-5, sin pasarte para que quede algo de textura.",
+      "Añade el cebollino, mezcla unos segundos a velocidad 2-3 y sirve."
+    ],
+    "tips": "Ideal para untar en tortitas de arroz o crudités de verdura como snack alto en proteína.",
+    "ovenAlt": null
+  },
+  {
+    "id": "thermomix-15-crema-de-queso-batido-con-pepino-tzatziki",
+    "title": "Crema de queso batido con pepino (tzatziki)",
+    "method": "Thermomix",
+    "mealType": "Snack",
+    "servingsBase": 4,
+    "prepTime": "10 min",
+    "cookTime": "1 min",
+    "totalTime": "11 min",
+    "difficulty": "Fácil",
+    "nutrition": {
+      "kcal": 90,
+      "protein": 8,
+      "carbs": 5,
+      "fat": 4
+    },
+    "ingredients": [
+      "1 pepino",
+      "250 g de yogur griego",
+      "1 diente de ajo",
+      "Eneldo fresco",
+      "1 cucharada de aceite de oliva",
+      "Sal y unas gotas de vinagre"
+    ],
+    "steps": [
+      "Ralla el pepino: 5 segundos / velocidad 4.",
+      "Retira el pepino rallado y escúrrelo bien con un paño o colador, presionando para eliminar el agua.",
+      "En el vaso, mezcla el yogur, el ajo, el eneldo, el aceite, la sal y el vinagre: 10 segundos / velocidad 3.",
+      "Incorpora el pepino escurrido y mezcla con la espátula."
+    ],
+    "tips": "Cuanto mejor escurras el pepino, más cremosa y menos aguada quedará la salsa.",
+    "ovenAlt": null
+  },
+  {
+    "id": "thermomix-16-mantequilla-de-almendras-casera",
+    "title": "Mantequilla de almendras casera",
+    "method": "Thermomix",
+    "mealType": "Snack",
+    "servingsBase": 10,
+    "prepTime": "5 min",
+    "cookTime": "5 min",
+    "totalTime": "10 min",
+    "difficulty": "Fácil",
+    "nutrition": {
+      "kcal": 180,
+      "protein": 6,
+      "carbs": 5,
+      "fat": 16
+    },
+    "ingredients": [
+      "300 g de almendras crudas o tostadas",
+      "Una pizca de sal",
+      "1 cucharadita de aceite (opcional, para ayudar a la textura)"
+    ],
+    "steps": [
+      "Pon las almendras en el vaso y tritura progresivamente 30 segundos / velocidad 5-10.",
+      "Programa 3-5 minutos / velocidad 5-7, bajando los restos con la espátula cada minuto, hasta conseguir una crema untuosa.",
+      "Añade la sal (y el aceite si hace falta más fluidez) y mezcla unos segundos más.",
+      "Guarda en un tarro de cristal."
+    ],
+    "tips": "El tiempo total depende de la potencia; si tarda en cremar, para, baja los restos y continúa. Se conserva 2-3 semanas en la nevera.",
+    "ovenAlt": null
+  },
+  {
+    "id": "thermomix-17-crema-de-brocoli-y-queso-light",
+    "title": "Crema de brócoli y queso light",
+    "method": "Thermomix",
+    "mealType": "Cena",
+    "servingsBase": 2,
+    "prepTime": "10 min",
+    "cookTime": "21 min",
+    "totalTime": "31 min",
+    "difficulty": "Fácil",
+    "nutrition": {
+      "kcal": 150,
+      "protein": 10,
+      "carbs": 12,
+      "fat": 6
+    },
+    "ingredients": [
+      "400 g de brócoli en arbolitos",
+      "1 puerro troceado",
+      "500 ml de caldo de verduras",
+      "50 g de queso light en porciones",
+      "Sal y pimienta"
+    ],
+    "steps": [
+      "Pon el brócoli, el puerro y el caldo en el vaso.",
+      "Programa 20 min / 100 °C / velocidad 1.",
+      "Añade el queso y tritura 1 minuto / velocidad 5-8, hasta que quede cremoso.",
+      "Rectifica de sal y sirve caliente."
+    ],
+    "tips": "Reserva unos arbolitos de brócoli al vapor para decorar por encima y dar textura.",
+    "ovenAlt": null
+  },
+  {
+    "id": "thermomix-18-pollo-al-curry-con-leche-de-coco-light-varoma",
+    "title": "Pollo al curry con leche de coco light (Varoma)",
+    "method": "Thermomix",
+    "mealType": "Cena",
+    "servingsBase": 2,
+    "prepTime": "10 min",
+    "cookTime": "25 min",
+    "totalTime": "35 min",
+    "difficulty": "Media",
+    "nutrition": {
+      "kcal": 320,
+      "protein": 34,
+      "carbs": 10,
+      "fat": 15
+    },
+    "ingredients": [
+      "400 g de pechuga de pollo en dados",
+      "200 ml de leche de coco light",
+      "1 cebolla picada",
+      "1 cucharadita de curry en polvo",
+      "1 pimiento en tiras",
+      "Arroz basmati para acompañar (opcional)"
+    ],
+    "steps": [
+      "Sofríe la cebolla y el curry con un chorrito de aceite: 5 min / 100 °C / velocidad 1.",
+      "Añade la leche de coco al vaso.",
+      "Coloca el pollo y el pimiento en el Varoma y programa 20 min / Varoma / velocidad 1.",
+      "Mezcla el pollo cocido con la salsa de curry del vaso y sirve, opcionalmente con arroz basmati."
+    ],
+    "tips": "La leche de coco \"light\" reduce bastante la grasa respecto a la versión normal sin perder sabor.",
+    "ovenAlt": null
+  },
+  {
+    "id": "thermomix-19-merluza-con-salsa-verde-al-varoma",
+    "title": "Merluza con salsa verde al Varoma",
+    "method": "Thermomix",
+    "mealType": "Cena",
+    "servingsBase": 2,
+    "prepTime": "10 min",
+    "cookTime": "24 min",
+    "totalTime": "34 min",
+    "difficulty": "Media",
+    "nutrition": {
+      "kcal": 260,
+      "protein": 32,
+      "carbs": 14,
+      "fat": 7
+    },
+    "ingredients": [
+      "2 lomos de merluza (300 g)",
+      "Un puñado de perejil fresco",
+      "1 diente de ajo",
+      "100 ml de caldo de pescado o vino blanco",
+      "1 cucharada de harina",
+      "150 g de guisantes",
+      "2 patatas pequeñas"
+    ],
+    "steps": [
+      "Pon el perejil, el ajo, el caldo y la harina en el vaso: 4 min / 90 °C / velocidad 2, para hacer la salsa verde.",
+      "Reserva la salsa y coloca las patatas troceadas en el fondo del recipiente Varoma con un poco de agua en el vaso.",
+      "Añade la merluza y los guisantes al Varoma.",
+      "Programa 20 min / Varoma / velocidad 1.",
+      "Sirve la merluza con las patatas, los guisantes y la salsa verde por encima."
+    ],
+    "tips": "Si prefieres una salsa más ligera, reduce la cantidad de harina a la mitad.",
+    "ovenAlt": null
+  },
+  {
+    "id": "thermomix-20-sopa-de-miso-con-tofu-y-verduras",
+    "title": "Sopa de miso con tofu y verduras",
+    "method": "Thermomix",
+    "mealType": "Cena",
+    "servingsBase": 2,
+    "prepTime": "10 min",
+    "cookTime": "10 min",
+    "totalTime": "20 min",
+    "difficulty": "Fácil",
+    "nutrition": {
+      "kcal": 120,
+      "protein": 10,
+      "carbs": 8,
+      "fat": 5
+    },
+    "ingredients": [
+      "800 ml de agua o caldo de verduras",
+      "3 cucharadas de pasta de miso",
+      "150 g de tofu firme en dados",
+      "Un puñado de alga wakame deshidratada",
+      "80 g de champiñones laminados",
+      "1 cebolleta en aros finos"
+    ],
+    "steps": [
+      "Pon el agua o caldo en el vaso: 8 min / 100 °C / velocidad 1.",
+      "Deja templar unos minutos hasta unos 60 °C (el miso no debe hervir para conservar sus propiedades).",
+      "Diluye el miso en un bol pequeño con un poco del caldo templado y añádelo al vaso.",
+      "Incorpora el tofu, el alga wakame y los champiñones.",
+      "Programa 1 minuto / 60 °C / velocidad cuchara (giro a la izquierda) para mezclar sin romper el tofu.",
+      "Sirve con la cebolleta por encima."
+    ],
+    "tips": "Nunca hiervas el miso a más de 70-80 °C: pierde parte de sus propiedades probióticas y su sabor se vuelve amargo.",
+    "ovenAlt": null
+  },
+  {
+    "id": "thermomix-21-pure-de-manzana-y-pera",
+    "title": "Puré de manzana y pera",
+    "method": "Thermomix",
+    "mealType": "Desayuno",
+    "servingsBase": 4,
+    "prepTime": "5 min",
+    "cookTime": "15 min",
+    "totalTime": "20 min",
+    "difficulty": "Fácil",
+    "nutrition": {
+      "kcal": 80,
+      "protein": 0,
+      "carbs": 20,
+      "fat": 0
+    },
+    "ingredients": [
+      "3 manzanas troceadas",
+      "2 peras troceadas",
+      "100 ml de agua",
+      "Zumo de 1/2 limón"
+    ],
+    "steps": [
+      "Pon todos los ingredientes en el vaso.",
+      "Programa 15 min / 100 °C / velocidad 1.",
+      "Si lo prefieres más fino, tritura 20 segundos / velocidad 4.",
+      "Sirve templado o frío."
+    ],
+    "tips": "Se conserva 3-4 días en la nevera en un bote hermético.",
+    "ovenAlt": null
+  },
+  {
+    "id": "thermomix-22-batido-de-avena-platano-y-miel",
+    "title": "Batido de avena, plátano y miel",
+    "method": "Thermomix",
+    "mealType": "Desayuno",
+    "servingsBase": 2,
+    "prepTime": "5 min",
+    "cookTime": "30 seg",
+    "totalTime": "6 min",
+    "difficulty": "Fácil",
+    "nutrition": {
+      "kcal": 220,
+      "protein": 7,
+      "carbs": 38,
+      "fat": 4
+    },
+    "ingredients": [
+      "300 ml de leche o bebida vegetal",
+      "1 plátano",
+      "30 g de copos de avena",
+      "1 cucharadita de miel"
+    ],
+    "steps": [
+      "Pon todos los ingredientes en el vaso.",
+      "Tritura 30 segundos / velocidad 6-8.",
+      "Sirve frío."
+    ],
+    "tips": "Añade unos cubitos de hielo si te gusta más frío y espeso.",
+    "ovenAlt": null
+  },
+  {
+    "id": "thermomix-23-batido-bowl-de-fresas-y-platano",
+    "title": "Batido bowl de fresas y plátano",
+    "method": "Thermomix",
+    "mealType": "Desayuno",
+    "servingsBase": 2,
+    "prepTime": "5 min",
+    "cookTime": "40 seg",
+    "totalTime": "6 min",
+    "difficulty": "Fácil",
+    "nutrition": {
+      "kcal": 230,
+      "protein": 14,
+      "carbs": 34,
+      "fat": 4
+    },
+    "ingredients": [
+      "250 g de fresas congeladas",
+      "1 plátano",
+      "200 g de yogur griego",
+      "Granola para decorar"
+    ],
+    "steps": [
+      "Pon las fresas, el plátano y el yogur en el vaso.",
+      "Tritura 30-40 segundos / velocidad 6-8, hasta conseguir una textura cremosa.",
+      "Sirve en un bowl con granola por encima."
+    ],
+    "tips": "Congela el plátano en rodajas de antemano para una textura más cremosa, tipo helado.",
+    "ovenAlt": null
+  },
+  {
+    "id": "thermomix-24-bizcocho-esponjoso-de-manzana",
+    "title": "Bizcocho esponjoso de manzana",
+    "method": "Thermomix",
+    "mealType": "Desayuno",
+    "servingsBase": 10,
+    "prepTime": "10 min",
+    "cookTime": "38 min",
+    "totalTime": "48 min",
+    "difficulty": "Media",
+    "nutrition": {
+      "kcal": 140,
+      "protein": 4,
+      "carbs": 20,
+      "fat": 5
+    },
+    "ingredients": [
+      "2 manzanas troceadas",
+      "3 huevos",
+      "120 g de harina de avena",
+      "60 g de azúcar moreno",
+      "1 sobre de levadura química",
+      "50 ml de aceite de oliva suave"
+    ],
+    "steps": [
+      "Tritura la manzana 5 segundos / velocidad 4.",
+      "Añade el resto de ingredientes y mezcla 20 segundos / velocidad 4.",
+      "Vierte la masa en un molde apto para horno.",
+      "Hornea en horno convencional precalentado a 180 °C durante 35-40 minutos (comprueba con un palillo)."
+    ],
+    "tips": "La cocción final se hace en el horno, no en la Thermomix. Rinde unas 10 porciones.",
+    "ovenAlt": null
+  },
+  {
+    "id": "thermomix-25-crema-de-verduras-con-pollo",
+    "title": "Crema de verduras con pollo",
+    "method": "Thermomix",
+    "mealType": "Comida",
+    "servingsBase": 2,
+    "prepTime": "10 min",
+    "cookTime": "26 min",
+    "totalTime": "36 min",
+    "difficulty": "Fácil",
+    "nutrition": {
+      "kcal": 200,
+      "protein": 22,
+      "carbs": 18,
+      "fat": 4
+    },
+    "ingredients": [
+      "2 calabacines troceados",
+      "2 zanahorias troceadas",
+      "1 patata troceada",
+      "200 g de pechuga de pollo cocida y desmenuzada",
+      "500 ml de caldo",
+      "Sal y pimienta"
+    ],
+    "steps": [
+      "Pon las verduras y el caldo en el vaso.",
+      "Programa 25 min / 100 °C / velocidad 1.",
+      "Tritura 1 minuto / velocidad 5-8.",
+      "Añade el pollo desmenuzado, mezcla unos segundos y sirve."
+    ],
+    "tips": "Puedes usar restos de pollo asado del día anterior para ahorrar tiempo.",
+    "ovenAlt": null
+  },
+  {
+    "id": "thermomix-26-salmon-al-vapor-con-patatas-varoma",
+    "title": "Salmón al vapor con patatas (Varoma)",
+    "method": "Thermomix",
+    "mealType": "Comida",
+    "servingsBase": 2,
+    "prepTime": "10 min",
+    "cookTime": "22 min",
+    "totalTime": "32 min",
+    "difficulty": "Media",
+    "nutrition": {
+      "kcal": 340,
+      "protein": 30,
+      "carbs": 24,
+      "fat": 14
+    },
+    "ingredients": [
+      "2 lomos de salmón (300 g)",
+      "400 g de patatas pequeñas",
+      "1 limón en rodajas",
+      "Eneldo y sal"
+    ],
+    "steps": [
+      "Pon las patatas troceadas y agua en el vaso.",
+      "Coloca el salmón en el Varoma con rodajas de limón y eneldo por encima.",
+      "Programa 20-22 min / Varoma / velocidad 1.",
+      "Sirve el salmón con las patatas."
+    ],
+    "tips": "Si las patatas son grandes, córtalas más pequeñas para que se hagan en el mismo tiempo que el salmón.",
+    "ovenAlt": null
+  },
+  {
+    "id": "thermomix-27-garbanzos-con-verduras",
+    "title": "Garbanzos con verduras",
+    "method": "Thermomix",
+    "mealType": "Comida",
+    "servingsBase": 4,
+    "prepTime": "10 min",
+    "cookTime": "25 min",
+    "totalTime": "35 min",
+    "difficulty": "Fácil",
+    "nutrition": {
+      "kcal": 240,
+      "protein": 12,
+      "carbs": 34,
+      "fat": 6
+    },
+    "ingredients": [
+      "400 g de garbanzos cocidos",
+      "1 zanahoria",
+      "1 calabacín",
+      "1 tomate",
+      "1/2 cebolla",
+      "1 diente de ajo",
+      "1 cucharadita de pimentón",
+      "400 ml de caldo"
+    ],
+    "steps": [
+      "Pica la cebolla y el ajo: 4 segundos / velocidad 4.",
+      "Sofríe con un chorrito de aceite: 5 min / 100 °C / velocidad 1.",
+      "Añade el resto de verduras troceadas, los garbanzos, el pimentón y el caldo.",
+      "Programa 20 min / 100 °C / velocidad cuchara (giro a la izquierda).",
+      "Sirve caliente."
+    ],
+    "tips": "Ideal para preparar en cantidad y congelar en raciones individuales.",
+    "ovenAlt": null
+  },
+  {
+    "id": "thermomix-28-bacalao-con-pisto",
+    "title": "Bacalao con pisto",
+    "method": "Thermomix",
+    "mealType": "Comida",
+    "servingsBase": 2,
+    "prepTime": "15 min",
+    "cookTime": "30 min",
+    "totalTime": "45 min",
+    "difficulty": "Media",
+    "nutrition": {
+      "kcal": 220,
+      "protein": 28,
+      "carbs": 14,
+      "fat": 6
+    },
+    "ingredients": [
+      "2 lomos de bacalao desalado (300 g)",
+      "1 calabacín",
+      "1 pimiento",
+      "1 berenjena",
+      "1 tomate",
+      "1/2 cebolla",
+      "Aceite de oliva"
+    ],
+    "steps": [
+      "Trocea las verduras y pícalas 4 segundos / velocidad 4.",
+      "Cocina 15 min / 100 °C / velocidad cuchara (giro a la izquierda) con un chorrito de aceite.",
+      "Coloca el bacalao en el Varoma sobre las verduras y programa 15 min más / Varoma / velocidad 1.",
+      "Sirve el bacalao sobre el pisto."
+    ],
+    "tips": "El pisto se puede preparar el día anterior y cocinar el bacalao al vapor el mismo día que lo vayas a comer.",
+    "ovenAlt": null
+  },
+  {
+    "id": "thermomix-29-compota-de-pera-casera",
+    "title": "Compota de pera casera",
+    "method": "Thermomix",
+    "mealType": "Merienda",
+    "servingsBase": 4,
+    "prepTime": "5 min",
+    "cookTime": "15 min",
+    "totalTime": "20 min",
+    "difficulty": "Fácil",
+    "nutrition": {
+      "kcal": 75,
+      "protein": 0,
+      "carbs": 19,
+      "fat": 0
+    },
+    "ingredients": [
+      "4 peras troceadas",
+      "100 ml de agua",
+      "Zumo de 1/2 limón"
+    ],
+    "steps": [
+      "Pon todos los ingredientes en el vaso.",
+      "Programa 15 min / 100 °C / velocidad 1.",
+      "Si la prefieres más fina, tritura 15 segundos / velocidad 4."
+    ],
+    "tips": "Se conserva 4-5 días en la nevera en un bote hermético.",
+    "ovenAlt": null
+  },
+  {
+    "id": "thermomix-30-batido-de-fresas-y-yogur",
+    "title": "Batido de fresas y yogur",
+    "method": "Thermomix",
+    "mealType": "Merienda",
+    "servingsBase": 2,
+    "prepTime": "5 min",
+    "cookTime": "30 seg",
+    "totalTime": "6 min",
+    "difficulty": "Fácil",
+    "nutrition": {
+      "kcal": 130,
+      "protein": 7,
+      "carbs": 20,
+      "fat": 3
+    },
+    "ingredients": [
+      "250 g de fresas",
+      "200 g de yogur natural",
+      "1 cucharadita de miel"
+    ],
+    "steps": [
+      "Pon todos los ingredientes en el vaso.",
+      "Tritura 30 segundos / velocidad 6-8.",
+      "Sirve frío."
+    ],
+    "tips": "Añade hielo si prefieres una textura más granizada.",
+    "ovenAlt": null
+  },
+  {
+    "id": "thermomix-31-crema-de-queso-fresco-para-untar-con-finas-hierbas",
+    "title": "Crema de queso fresco para untar con finas hierbas",
+    "method": "Thermomix",
+    "mealType": "Merienda",
+    "servingsBase": 4,
+    "prepTime": "5 min",
+    "cookTime": "15 seg",
+    "totalTime": "5 min",
+    "difficulty": "Fácil",
+    "nutrition": {
+      "kcal": 110,
+      "protein": 10,
+      "carbs": 4,
+      "fat": 6
+    },
+    "ingredients": [
+      "250 g de queso fresco batido",
+      "Perejil y cebollino",
+      "1 diente de ajo pequeño",
+      "Sal y pimienta"
+    ],
+    "steps": [
+      "Pon todos los ingredientes en el vaso.",
+      "Mezcla 15 segundos / velocidad 3-4 hasta integrar bien.",
+      "Guarda en la nevera en un bote hermético."
+    ],
+    "tips": "Perfecto para untar en tostadas integrales o acompañar crudités de verdura.",
+    "ovenAlt": null
+  },
+  {
+    "id": "thermomix-32-pure-de-platano-y-avena",
+    "title": "Puré de plátano y avena",
+    "method": "Thermomix",
+    "mealType": "Merienda",
+    "servingsBase": 2,
+    "prepTime": "5 min",
+    "cookTime": "5 min",
+    "totalTime": "10 min",
+    "difficulty": "Fácil",
+    "nutrition": {
+      "kcal": 200,
+      "protein": 6,
+      "carbs": 36,
+      "fat": 3
+    },
+    "ingredients": [
+      "2 plátanos maduros",
+      "40 g de copos de avena",
+      "200 ml de leche o bebida vegetal"
+    ],
+    "steps": [
+      "Pon todos los ingredientes en el vaso.",
+      "Programa 5 min / 90 °C / velocidad 2.",
+      "Tritura 20 segundos / velocidad 4-5.",
+      "Sirve templado."
+    ],
+    "tips": "Una opción energética ideal antes o después de entrenar.",
+    "ovenAlt": null
+  },
+  {
+    "id": "thermomix-33-pate-de-champinones",
+    "title": "Paté de champiñones",
+    "method": "Thermomix",
+    "mealType": "Snack",
+    "servingsBase": 4,
+    "prepTime": "10 min",
+    "cookTime": "8 min",
+    "totalTime": "18 min",
+    "difficulty": "Fácil",
+    "nutrition": {
+      "kcal": 120,
+      "protein": 6,
+      "carbs": 5,
+      "fat": 8
+    },
+    "ingredients": [
+      "300 g de champiñones laminados",
+      "1/2 cebolla",
+      "1 diente de ajo",
+      "100 g de queso crema light",
+      "Aceite de oliva, sal y pimienta"
+    ],
+    "steps": [
+      "Pica la cebolla y el ajo: 4 segundos / velocidad 4.",
+      "Sofríe con aceite junto con los champiñones: 8 min / 100 °C / velocidad 1, hasta que suelten el agua y se evapore.",
+      "Añade el queso crema y tritura 20 segundos / velocidad 5-6.",
+      "Deja enfriar antes de servir."
+    ],
+    "tips": "Se conserva 3 días en la nevera en un recipiente hermético.",
+    "ovenAlt": null
+  },
+  {
+    "id": "thermomix-34-hummus-de-judias-blancas",
+    "title": "Hummus de judías blancas",
+    "method": "Thermomix",
+    "mealType": "Snack",
+    "servingsBase": 4,
+    "prepTime": "5 min",
+    "cookTime": "1 min",
+    "totalTime": "6 min",
+    "difficulty": "Fácil",
+    "nutrition": {
+      "kcal": 160,
+      "protein": 8,
+      "carbs": 16,
+      "fat": 8
+    },
+    "ingredients": [
+      "300 g de judías blancas cocidas",
+      "1 diente de ajo",
+      "Zumo de 1 limón",
+      "3 cucharadas de aceite de oliva",
+      "Comino y sal"
+    ],
+    "steps": [
+      "Pon todos los ingredientes en el vaso.",
+      "Tritura 40 segundos / velocidad 6-7.",
+      "Baja los restos de las paredes con la espátula y repite si hace falta hasta conseguir una textura cremosa."
+    ],
+    "tips": "Si queda muy espeso, añade una cucharada de agua fría y vuelve a triturar.",
+    "ovenAlt": null
+  },
+  {
+    "id": "thermomix-35-queso-crema-casero-para-untar",
+    "title": "Queso crema casero para untar",
+    "method": "Thermomix",
+    "mealType": "Snack",
+    "servingsBase": 10,
+    "prepTime": "5 min + 12-24 h reposo",
+    "cookTime": "—",
+    "totalTime": "12-24 h",
+    "difficulty": "Fácil",
+    "nutrition": {
+      "kcal": 45,
+      "protein": 3,
+      "carbs": 2,
+      "fat": 3
+    },
+    "ingredients": [
+      "1 litro de yogur natural"
+    ],
+    "steps": [
+      "Vierte el yogur en un colador forrado con una gasa o paño limpio, colocado sobre un bol.",
+      "Deja escurrir en la nevera durante 12-24 horas, hasta que suelte el suero y quede una textura cremosa tipo queso untable.",
+      "Añade sal y hierbas al gusto una vez escurrido."
+    ],
+    "tips": "Este proceso no usa la Thermomix, solo el yogur y tiempo de reposo en la nevera.",
+    "ovenAlt": null
+  },
+  {
+    "id": "thermomix-36-pate-de-salmon",
+    "title": "Paté de salmón",
+    "method": "Thermomix",
+    "mealType": "Snack",
+    "servingsBase": 4,
+    "prepTime": "5 min",
+    "cookTime": "20 seg",
+    "totalTime": "5 min",
+    "difficulty": "Fácil",
+    "nutrition": {
+      "kcal": 190,
+      "protein": 14,
+      "carbs": 3,
+      "fat": 14
+    },
+    "ingredients": [
+      "150 g de salmón ahumado",
+      "100 g de queso crema light",
+      "Zumo de 1/2 limón",
+      "Eneldo y pimienta"
+    ],
+    "steps": [
+      "Pon todos los ingredientes en el vaso.",
+      "Tritura 20 segundos / velocidad 4-5, sin pasarte, hasta conseguir una textura cremosa."
+    ],
+    "tips": "Ideal para untar en tostadas integrales como snack alto en proteína.",
+    "ovenAlt": null
+  },
+  {
+    "id": "thermomix-37-crema-de-calabacin-y-patata",
+    "title": "Crema de calabacín y patata",
+    "method": "Thermomix",
+    "mealType": "Cena",
+    "servingsBase": 2,
+    "prepTime": "10 min",
+    "cookTime": "21 min",
+    "totalTime": "31 min",
+    "difficulty": "Fácil",
+    "nutrition": {
+      "kcal": 130,
+      "protein": 4,
+      "carbs": 20,
+      "fat": 3
+    },
+    "ingredients": [
+      "3 calabacines troceados",
+      "1 patata troceada",
+      "1/2 cebolla",
+      "500 ml de caldo de verduras",
+      "Sal y pimienta"
+    ],
+    "steps": [
+      "Pon las verduras y el caldo en el vaso.",
+      "Programa 20 min / 100 °C / velocidad 1.",
+      "Tritura 1 minuto / velocidad 5-8, hasta que quede cremosa."
+    ],
+    "tips": "Añade un chorrito de aceite de oliva crudo al servir para redondear el sabor.",
+    "ovenAlt": null
+  },
+  {
+    "id": "thermomix-38-bacalao-con-salsa-de-tomate",
+    "title": "Bacalao con salsa de tomate",
+    "method": "Thermomix",
+    "mealType": "Cena",
+    "servingsBase": 2,
+    "prepTime": "10 min",
+    "cookTime": "32 min",
+    "totalTime": "42 min",
+    "difficulty": "Media",
+    "nutrition": {
+      "kcal": 220,
+      "protein": 28,
+      "carbs": 12,
+      "fat": 6
+    },
+    "ingredients": [
+      "2 lomos de bacalao desalado (300 g)",
+      "400 g de tomate triturado",
+      "1/2 cebolla",
+      "1 diente de ajo",
+      "Orégano y aceite de oliva"
+    ],
+    "steps": [
+      "Pica la cebolla y el ajo: 4 segundos / velocidad 4.",
+      "Sofríe 5 min / 100 °C / velocidad 1 con aceite.",
+      "Añade el tomate triturado y el orégano; programa 15 min / 100 °C / velocidad 1.",
+      "Coloca el bacalao en el Varoma y cocina 12 minutos más / Varoma / velocidad 1.",
+      "Sirve el bacalao con la salsa de tomate por encima."
+    ],
+    "tips": "Puedes preparar la salsa con antelación y cocinar el bacalao al vapor el mismo día que lo vayas a comer.",
+    "ovenAlt": null
+  },
+  {
+    "id": "thermomix-39-pollo-con-verduras-al-vapor-varoma",
+    "title": "Pollo con verduras al vapor (Varoma)",
+    "method": "Thermomix",
+    "mealType": "Cena",
+    "servingsBase": 2,
+    "prepTime": "10 min",
+    "cookTime": "22 min",
+    "totalTime": "32 min",
+    "difficulty": "Fácil",
+    "nutrition": {
+      "kcal": 240,
+      "protein": 36,
+      "carbs": 10,
+      "fat": 5
+    },
+    "ingredients": [
+      "400 g de pechuga de pollo en tiras",
+      "1 calabacín",
+      "1 zanahoria",
+      "1 pimiento",
+      "Sal, pimienta y hierbas provenzales"
+    ],
+    "steps": [
+      "Pon agua en el vaso.",
+      "Coloca el pollo y las verduras en el Varoma, salpimenta y añade las hierbas.",
+      "Programa 20-22 min / Varoma / velocidad 1.",
+      "Sirve caliente."
+    ],
+    "tips": "Acompaña con arroz integral hervido aparte si buscas una cena más completa.",
+    "ovenAlt": null
+  },
+  {
+    "id": "thermomix-40-sopa-de-pollo-y-fideos",
+    "title": "Sopa de pollo y fideos",
+    "method": "Thermomix",
+    "mealType": "Cena",
+    "servingsBase": 2,
+    "prepTime": "10 min",
+    "cookTime": "19 min",
+    "totalTime": "29 min",
+    "difficulty": "Fácil",
+    "nutrition": {
+      "kcal": 220,
+      "protein": 22,
+      "carbs": 24,
+      "fat": 4
+    },
+    "ingredients": [
+      "200 g de pechuga de pollo",
+      "1 zanahoria",
+      "1 puerro",
+      "800 ml de caldo de pollo",
+      "60 g de fideos finos",
+      "Sal y pimienta"
+    ],
+    "steps": [
+      "Trocea la zanahoria y el puerro: 4 segundos / velocidad 4.",
+      "Añade el caldo y el pollo en trozos; programa 15 min / 100 °C / velocidad 1.",
+      "Añade los fideos y programa 4 min más / 100 °C / velocidad cuchara (giro a la izquierda).",
+      "Deja reposar 2 minutos antes de servir."
+    ],
+    "tips": "Una cena reconfortante y ligera, ideal para días fríos.",
+    "ovenAlt": null
+  }
+]
