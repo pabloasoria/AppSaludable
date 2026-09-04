@@ -56,6 +56,27 @@ JSON local, vive en Supabase.
 7. `npm run dev` (o `npm run build && npm run start`) y prueba iniciar
    sesión desde `/login`.
 
+### Modo desarrollo: login automático
+
+El login real (enlace mágico) está **desactivado temporalmente** para
+agilizar el desarrollo: `/login` muestra un único botón que inicia sesión
+como un usuario fijo (`usuario1@dev.local`), sin pasar por email. Antes de
+usarlo, crea ese usuario una vez (necesita `SUPABASE_SERVICE_ROLE_KEY`, como
+el paso 6):
+
+```bash
+set -a; source .env.local; set +a
+node scripts/create-dev-user.js
+```
+
+Luego, en `/login`, pulsa "Entrar como usuario1@dev.local". Como es un
+usuario real de Supabase Auth, el planificador y la lista de la compra
+persisten igual que con cualquier otra cuenta.
+
+Para volver al login real (enlace mágico), pon `DEV_LOGIN_ENABLED` en
+`false` en `src/app/login/page.tsx` — el formulario original sigue intacto
+debajo, no hay que reescribirlo.
+
 Si en algún momento cambias `airfryer-data.js` / `thermomix-data.js` (en la
 carpeta hermana `../recetas`) o quieres regenerar `src/data/recipes.json`
 antes de volver a sembrar:
