@@ -21,6 +21,34 @@ type IngredientGroup = { key: string; label: string; entries: IngredientEntry[] 
 const UNIT_WORDS =
   'g|kg|ml|l|litro|litros|cda|cdta|cdas|cdtas|cucharada|cucharadas|cucharadita|cucharaditas|ud|uds|unidad|unidades|diente|dientes|loncha|lonchas|lomo|lomos|rodaja|rodajas|manojo|manojos|puñado|puñados|pizca|pizcas';
 
+// Singular canónico de cada "unidad de cocina" de UNIT_WORDS, para que
+// summarizeQuantities (más abajo) reconozca "1 cucharada" + "3 cucharadas"
+// como la misma unidad al sumar en vez de tratarlas como distintas por ser
+// formas singular/plural distintas. g/kg/ml/l no llevan plural, así que no
+// hace falta mapearlas (ya son su propio canónico).
+const UNIT_SINGULAR: Record<string, string> = {
+  litros: 'litro',
+  cdas: 'cda',
+  cdtas: 'cdta',
+  cucharadas: 'cucharada',
+  cucharaditas: 'cucharadita',
+  uds: 'ud',
+  unidades: 'unidad',
+  dientes: 'diente',
+  lonchas: 'loncha',
+  lomos: 'lomo',
+  rodajas: 'rodaja',
+  manojos: 'manojo',
+  puñados: 'puñado',
+  pizcas: 'pizca',
+};
+
+// Inversa de UNIT_SINGULAR, para mostrar la suma con la forma plural cuando
+// el total no es 1 ("6 cucharadas" en vez de "6 cucharada").
+const UNIT_PLURAL: Record<string, string> = Object.fromEntries(
+  Object.entries(UNIT_SINGULAR).map(([plural, singular]) => [singular, plural]),
+);
+
 // Palabras/frases sueltas al principio ("Diente de ajo picado" = "1 diente
 // de ajo picado") que implican cantidad 1 aunque no lleven número delante.
 const IMPLIED_ONE_RE = new RegExp(
@@ -50,6 +78,50 @@ const DIACRITICS_RE = new RegExp('[' + String.fromCharCode(0x0300) + '-' + Strin
 
 function capitalize(text: string): string {
   return text.length ? text.charAt(0).toUpperCase() + text.slice(1) : text;
+}
+
+// Descompone una cantidad ya aislada ("320g", "2 dientes", "3") en su valor
+// numérico y su unidad (cadena vacía si es un recuento suelto, "3 calabacín").
+// Acepta fracciones tipo "1/2". Devuelve null si no se pudo interpretar como
+// número (no debería pasar dado que `quantity` siempre viene de un match con
+// número al principio, pero se comprueba por seguridad).
+function parseQuantityValue(text: string): { value: number; unit: string } | null {
+  // La fracción va primero en la alternancia: para "1/2", el patrón del
+  // entero ("\d+") ya casaría con "1" sin más y dejaría "/2" colgando como si
+  // fuera parte de la unidad si se probara antes.
+  const match = text.match(/^(\d+\s*\/\s*\d+|\d+(?:[.,]\d+)?)\s*(.*)$/);
+  if (!match) return null;
+  const fraction = match[1].match(/^(\d+)\s*\/\s*(\d+)$/);
+  const value = fraction
+    ? parseInt(fraction[1], 10) / parseInt(fraction[2], 10)
+    : parseFloat(match[1].replace(',', '.'));
+  if (!Number.isFinite(value)) return null;
+  const rawUnit = match[2].trim().toLowerCase();
+  return { value, unit: UNIT_SINGULAR[rawUnit] ?? rawUnit };
+}
+
+function formatQuantityValue(value: number): string {
+  const rounded = Math.round(value * 100) / 100;
+  return rounded % 1 === 0 ? String(rounded) : rounded.toFixed(2).replace(/0+$/, '').replace(/\.$/, '');
+}
+
+// Si todas las cantidades del grupo comparten exactamente la misma unidad
+// (incluido "sin unidad" — un recuento de piezas suelto, como en "1
+// calabacín" + "3 calabacines") se suman en un único número. Si las unidades
+// no coinciden (p. ej. "300 g" y "2 unidades") o alguna no se pudo
+// interpretar, se listan tal cual con " + ": sumar unidades distintas
+// automáticamente daría un dato incorrecto (ver cabecera del archivo).
+function summarizeQuantities(quantities: string[]): string {
+  const parsed = quantities.map(parseQuantityValue);
+  const allParsed = parsed.every((p): p is { value: number; unit: string } => p !== null);
+  const sameUnit = allParsed && parsed.every((p) => p!.unit === parsed[0]!.unit);
+  if (sameUnit) {
+    const total = parsed.reduce((sum, p) => sum + p!.value, 0);
+    const singular = parsed[0]!.unit;
+    const unit = total === 1 ? singular : (UNIT_PLURAL[singular] ?? singular);
+    return unit ? `${formatQuantityValue(total)} ${unit}` : formatQuantityValue(total);
+  }
+  return quantities.join(' + ');
 }
 
 // Modificadores de preparación/tamaño/estado que NO cambian qué hay que
@@ -365,9 +437,9 @@ export function ShoppingList({ recipes }: { recipes: Recipe[] }) {
       </div>
 
       <p className="mb-4 text-xs text-outline print:hidden">
-        Las cantidades se muestran tal como aparecen en cada receta, sin sumarlas entre sí (mezclar unidades distintas
-        —g, ml, unidades— de forma automática daría un dato incorrecto). Si un ingrediente aparece en varias recetas,
-        revisa las cantidades listadas antes de comprar.
+        Las cantidades se suman automáticamente cuando comparten la misma unidad. Si un ingrediente aparece con
+        unidades distintas —g, ml, unidades sueltas— entre recetas (mezclarlas daría un dato incorrecto), se listan
+        tal cual con &quot;+&quot;; revisa esas antes de comprar.
       </p>
 
       <ul className="divide-y divide-outline-variant/40 rounded-2xl bg-surface-container-lowest shadow-sm">
@@ -395,7 +467,7 @@ export function ShoppingList({ recipes }: { recipes: Recipe[] }) {
                   </span>
                   <span className={`ml-2 text-xs ${isChecked ? 'opacity-50' : 'text-on-surface-variant'}`}>
                     {quantities.length > 0
-                      ? quantities.join(' + ')
+                      ? summarizeQuantities(quantities)
                       : `usado en ${group.entries.length} receta${group.entries.length > 1 ? 's' : ''}`}
                   </span>
                   {recipeTitles.length > 1 && (

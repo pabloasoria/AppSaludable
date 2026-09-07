@@ -3,7 +3,6 @@
 import { useState } from 'react';
 import type { Recipe } from '@/lib/recipe-types';
 import { scaleIngredientText } from '@/lib/recipe-types';
-import { RECIPE_IMAGES, RECIPE_DETAIL_HERO_OVERRIDE } from '@/lib/stitch-images';
 
 const DIFFICULTY_STYLES: Record<string, string> = {
   Fácil: 'bg-primary-fixed text-on-primary-fixed',
@@ -23,7 +22,7 @@ export function RecipeDetail({ recipe }: { recipe: Recipe }) {
   const difficultyStyle = DIFFICULTY_STYLES[recipe.difficulty] ?? 'bg-surface-container-high text-on-surface-variant';
 
   const toggleIngredient = (i: number) => setChecked((prev) => ({ ...prev, [i]: !prev[i] }));
-  const heroPhoto = recipe.photoUrl ?? RECIPE_DETAIL_HERO_OVERRIDE[recipe.title] ?? RECIPE_IMAGES[recipe.title];
+  const heroPhoto = recipe.photoUrl;
 
   return (
     <article>

@@ -1,6 +1,5 @@
 import Link from 'next/link';
 import type { Recipe } from '@/lib/recipe-types';
-import { RECIPE_IMAGES } from '@/lib/stitch-images';
 import { DeleteRecipeIconButton } from './DeleteRecipeIconButton';
 
 const METHOD_ICON: Record<Recipe['method'], string> = {
@@ -26,7 +25,7 @@ const DIFFICULTY_STYLES: Record<string, string> = {
 
 export function RecipeCard({ recipe }: { recipe: Recipe }) {
   const difficultyStyle = DIFFICULTY_STYLES[recipe.difficulty] ?? 'bg-surface-container-high text-on-surface-variant';
-  const photo = recipe.photoUrl ?? RECIPE_IMAGES[recipe.title];
+  const photo = recipe.photoUrl;
 
   return (
     <div className="group relative flex flex-col overflow-hidden rounded-2xl bg-surface-container-lowest shadow-sm transition hover:shadow-md">
