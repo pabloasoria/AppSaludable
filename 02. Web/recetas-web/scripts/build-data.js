@@ -1,6 +1,7 @@
 // Convierte las fuentes de recetas (airfryer-data.js / thermomix-data.js) en un
 // dataset único y normalizado en src/data/recipes.json.
-// Cuando se conecte Supabase, este mismo array es la base para el script de seed (ver supabase/seed.sql).
+// Ese JSON es la fuente que consume scripts/seed-supabase.js para cargar (o
+// actualizar) la tabla `recipes` de Supabase.
 
 const fs = require('fs');
 const path = require('path');

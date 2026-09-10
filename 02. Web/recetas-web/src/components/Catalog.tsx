@@ -1,13 +1,14 @@
 'use client';
 
 import { useMemo, useState } from 'react';
-import type { Recipe } from '@/lib/recipes';
-import { MEAL_TYPES, METHODS } from '@/lib/recipes';
+import type { Recipe } from '@/lib/recipe-types';
+import { MEAL_TYPES, METHODS } from '@/lib/recipe-types';
 import { RecipeCard } from './RecipeCard';
+import { NewRecipeModal } from './NewRecipeModal';
 
 const LABEL_CLASS = 'mb-1.5 block text-[11px] font-bold uppercase tracking-[0.1em] text-on-surface-variant';
 const CONTROL_CLASS =
-  'w-full rounded-sm border border-outline-variant bg-surface-container-lowest px-3 py-2 text-sm text-on-surface focus:border-primary focus:outline-none';
+  'w-full rounded-lg bg-surface-container-low px-3 py-2 text-sm text-on-surface focus:bg-surface-container focus:outline-none';
 
 export function Catalog({ recipes }: { recipes: Recipe[] }) {
   const [method, setMethod] = useState<string>('Todos');
@@ -27,18 +28,23 @@ export function Catalog({ recipes }: { recipes: Recipe[] }) {
 
   return (
     <div>
-      <div className="mb-6 flex flex-col gap-4 rounded-lg border border-outline-variant/60 bg-surface-container-lowest p-4 sm:flex-row sm:items-end sm:flex-wrap">
+      <div className="mb-6 flex flex-col gap-4 rounded-2xl bg-surface-container-lowest p-4 shadow-sm sm:flex-row sm:items-end sm:flex-wrap">
         <div className="flex-1 min-w-[180px]">
           <label className={LABEL_CLASS}>Buscar</label>
-          <input
-            type="text"
-            value={query}
-            onChange={(e) => setQuery(e.target.value)}
-            placeholder="Nombre de la receta…"
-            autoComplete="off"
-            suppressHydrationWarning
-            className={CONTROL_CLASS}
-          />
+          <div className="relative">
+            <span className="material-symbols-outlined pointer-events-none absolute left-3 top-1/2 -translate-y-1/2 text-[18px] text-on-surface-variant">
+              search
+            </span>
+            <input
+              type="text"
+              value={query}
+              onChange={(e) => setQuery(e.target.value)}
+              placeholder="Nombre de la receta…"
+              autoComplete="off"
+              suppressHydrationWarning
+              className={`${CONTROL_CLASS} pl-9`}
+            />
+          </div>
         </div>
         <div>
           <label className={LABEL_CLASS}>Método</label>
@@ -84,7 +90,10 @@ export function Catalog({ recipes }: { recipes: Recipe[] }) {
         </div>
       </div>
 
-      <p className="mb-4 text-sm text-on-surface-variant">{filtered.length} recetas</p>
+      <div className="mb-4 flex items-center justify-between gap-3">
+        <p className="text-sm text-on-surface-variant">{filtered.length} recetas</p>
+        <NewRecipeModal />
+      </div>
 
       <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
         {filtered.map((r) => (
