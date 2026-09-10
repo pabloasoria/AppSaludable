@@ -1,12 +1,16 @@
 'use client';
 
 import { useState } from 'react';
+import Link from 'next/link';
+import { useRouter } from 'next/navigation';
 import { createClient } from '@/lib/supabase/client';
 import { LOGIN_HERO_IMAGE, TESTIMONIAL_AVATAR_IMAGE } from '@/lib/stitch-images';
 
 export default function LoginPage() {
+  const router = useRouter();
   const [email, setEmail] = useState('');
-  const [status, setStatus] = useState<'idle' | 'sending' | 'sent' | 'error'>('idle');
+  const [password, setPassword] = useState('');
+  const [status, setStatus] = useState<'idle' | 'sending' | 'error'>('idle');
   const [errorMsg, setErrorMsg] = useState('');
 
   const handleSubmit = async (e: React.FormEvent) => {
@@ -15,19 +19,23 @@ export default function LoginPage() {
     setErrorMsg('');
 
     const supabase = createClient();
-    const { error } = await supabase.auth.signInWithOtp({
-      email,
-      options: {
-        emailRedirectTo: `${window.location.origin}/auth/callback`,
-      },
-    });
+    const { error } = await supabase.auth.signInWithPassword({ email, password });
 
     if (error) {
       setStatus('error');
-      setErrorMsg(error.message);
+      // Mensaje de Supabase para credenciales que no casan — más claro en
+      // español, y cubre también el caso de una cuenta que todavía no tiene
+      // contraseña (creada antes por enlace mágico): la salida en ambos
+      // casos es la misma, usar "¿Olvidaste tu contraseña?" para fijarla.
+      setErrorMsg(
+        error.message === 'Invalid login credentials'
+          ? 'Email o contraseña incorrectos. Si es la primera vez que entras con contraseña, usa «¿Olvidaste tu contraseña?» para crearla.'
+          : error.message,
+      );
       return;
     }
-    setStatus('sent');
+    router.push('/');
+    router.refresh();
   };
 
   return (
@@ -49,51 +57,69 @@ export default function LoginPage() {
         <div className="mb-6 flex items-center justify-between gap-3">
           <div>
             <h1 className="font-serif text-2xl font-semibold tracking-tight text-on-surface">Bienvenido de nuevo</h1>
-            <p className="mt-1.5 text-sm text-on-surface-variant">
-              Sin contraseñas: te enviamos un enlace de acceso a tu email.
-            </p>
+            <p className="mt-1.5 text-sm text-on-surface-variant">Entra con tu email y tu contraseña.</p>
           </div>
           <span className="material-symbols-outlined flex h-11 w-11 shrink-0 items-center justify-center rounded-full bg-surface-container text-2xl text-primary">
             skillet
           </span>
         </div>
 
-        {status === 'sent' ? (
-          <div className="flex flex-col items-center gap-2 rounded-xl bg-primary-fixed/40 p-5 text-center text-sm text-on-primary-fixed">
-            <span className="material-symbols-outlined text-3xl text-primary">mark_email_read</span>
-            Te hemos enviado un enlace a <strong>{email}</strong>. Ábrelo desde este mismo dispositivo para iniciar
-            sesión.
+        <form onSubmit={handleSubmit} className="flex flex-col gap-4">
+          <div className="flex flex-col gap-1.5">
+            <label className="flex items-center gap-1.5 text-[13px] font-semibold text-on-surface-variant">
+              <span className="material-symbols-outlined text-[16px] text-primary">mail</span>
+              Correo electrónico
+            </label>
+            <input
+              type="email"
+              required
+              value={email}
+              onChange={(e) => setEmail(e.target.value)}
+              placeholder="tu@email.com"
+              autoComplete="email"
+              className="h-12 w-full rounded-lg bg-surface-container-low px-4 text-sm text-on-surface placeholder:text-outline focus:bg-surface-container focus:outline-none"
+            />
           </div>
-        ) : (
-          <form onSubmit={handleSubmit} className="flex flex-col gap-4">
-            <div className="flex flex-col gap-1.5">
+
+          <div className="flex flex-col gap-1.5">
+            <div className="flex items-center justify-between">
               <label className="flex items-center gap-1.5 text-[13px] font-semibold text-on-surface-variant">
-                <span className="material-symbols-outlined text-[16px] text-primary">mail</span>
-                Correo electrónico
+                <span className="material-symbols-outlined text-[16px] text-primary">lock</span>
+                Contraseña
               </label>
-              <input
-                type="email"
-                required
-                value={email}
-                onChange={(e) => setEmail(e.target.value)}
-                placeholder="tu@email.com"
-                autoComplete="email"
-                className="h-12 w-full rounded-lg bg-surface-container-low px-4 text-sm text-on-surface placeholder:text-outline focus:bg-surface-container focus:outline-none"
-              />
+              <Link href="/recuperar-password" className="text-[12px] font-semibold text-secondary hover:underline">
+                ¿Olvidaste tu contraseña?
+              </Link>
             </div>
+            <input
+              type="password"
+              required
+              value={password}
+              onChange={(e) => setPassword(e.target.value)}
+              placeholder="••••••••"
+              autoComplete="current-password"
+              className="h-12 w-full rounded-lg bg-surface-container-low px-4 text-sm text-on-surface placeholder:text-outline focus:bg-surface-container focus:outline-none"
+            />
+          </div>
 
-            {status === 'error' && <p className="text-xs text-error">{errorMsg}</p>}
+          {status === 'error' && <p className="text-xs text-error">{errorMsg}</p>}
 
-            <button
-              type="submit"
-              disabled={status === 'sending'}
-              className="mt-1 flex h-12 w-full items-center justify-center gap-2 rounded-xl bg-gradient-to-r from-primary via-primary-container to-secondary text-sm font-semibold text-on-primary shadow-sm transition active:scale-[0.98] disabled:opacity-60"
-            >
-              {status === 'sending' ? 'Enviando…' : 'Enviarme el enlace'}
-              {status !== 'sending' && <span className="material-symbols-outlined text-[18px]">arrow_forward</span>}
-            </button>
-          </form>
-        )}
+          <button
+            type="submit"
+            disabled={status === 'sending'}
+            className="mt-1 flex h-12 w-full items-center justify-center gap-2 rounded-xl bg-gradient-to-r from-primary via-primary-container to-secondary text-sm font-semibold text-on-primary shadow-sm transition active:scale-[0.98] disabled:opacity-60"
+          >
+            {status === 'sending' ? 'Entrando…' : 'Iniciar sesión'}
+            {status !== 'sending' && <span className="material-symbols-outlined text-[18px]">arrow_forward</span>}
+          </button>
+        </form>
+
+        <p className="mt-4 text-center text-xs text-on-surface-variant">
+          ¿No tienes cuenta todavía?{' '}
+          <Link href="/registro" className="font-semibold text-primary hover:underline">
+            Crear cuenta
+          </Link>
+        </p>
       </div>
 
       <div className="mt-4 flex items-center gap-3 rounded-xl bg-surface-container-low p-3">

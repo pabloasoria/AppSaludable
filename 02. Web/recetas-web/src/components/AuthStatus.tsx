@@ -40,7 +40,9 @@ export function AuthStatus({ email, isDevBypass }: { email: string | null; isDev
 
   return (
     <span className="flex items-center gap-3">
-      <span className="hidden text-xs text-outline sm:inline">{email}</span>
+      <Link href="/cuenta" className="hidden text-xs text-outline transition hover:text-primary sm:inline">
+        {email}
+      </Link>
       <button type="button" onClick={handleSignOut} className="transition hover:text-primary">
         Cerrar sesión
       </button>
